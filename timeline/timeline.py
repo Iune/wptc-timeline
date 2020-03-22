@@ -123,7 +123,25 @@ def main():
 
     current_year = list(filter(lambda storm: storm.year == 2018, storms))
     
-    with open("output.tsv", "a") as f:
+    with open("output.tsv", "w") as f:
+        header = [
+            "Name",
+            "Date",
+            "Record Identifier",
+            "Type",
+            "Latitude",
+            "Longitude"
+            "Winds",
+            "Pressure",
+            "Breakpoint",
+            "State",
+            "Country",
+            "Miles",
+            "Kilometers",
+            "Direction"
+        ]
+        f.write("{}\n".format("\t".join(header)))
+
         for storm in current_year:
             print(storm.name)
             for record in storm.records:
