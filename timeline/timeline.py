@@ -90,14 +90,17 @@ def load_hurdat(hurdat_file_path):
                     pressure=get_pressure(line)
                 ))
         return storms
-            
+
+
 def main():
     breakpoints_file_path = "resources/breakpoints/breakpoints.shp"
     breakpoints = load_breakpoints(breakpoints_file_path)
-    storms = load_hurdat("resources/hurdat2/hurdat2-nepac-1949-2018-122019.txt")
+    storms = load_hurdat(
+        "resources/hurdat2/hurdat2-nepac-1949-2018-122019.txt")
 
     current_year = list(filter(lambda storm: storm.year == 2018, storms))
     print(len(current_year))
+
 
 if __name__ == "__main__":
     main()
