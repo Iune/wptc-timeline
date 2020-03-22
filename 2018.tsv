@@ -1,0 +1,760 @@
+Storm	Date	Record	Phase	Lat	Lon	Winds	Pressure	Breakpoint	State	Country	Miles	Kilometers	Direction
+ONE	5/10/18 12:00		TD	12.1	-125.4	25	1008	Cabo San Lazaro		Mexico	1223	1969	SW
+ONE	5/10/18 18:00		TD	12.3	-126.2	30	1007	Cabo San Lazaro		Mexico	1251	2013	SW
+ONE	5/11/18 0:00		TD	12.4	-127.1	30	1007	Cabo San Lazaro		Mexico	1290	2076	SW
+ONE	5/11/18 6:00		TD	12.5	-128	30	1007	Cabo San Lazaro		Mexico	1330	2140	SW
+ONE	5/11/18 12:00		TD	12.6	-128.7	30	1007	Cabo San Lazaro		Mexico	1361	2191	SW
+ONE	5/11/18 18:00		LO	12.7	-129.3	25	1008	Cabo San Lazaro		Mexico	1388	2234	WSW
+ONE	5/12/18 0:00		LO	12.8	-129.8	25	1008	Punta Eugenia		Mexico	1407	2265	SW
+ONE	5/12/18 6:00		LO	13	-130.1	25	1008	Punta Eugenia		Mexico	1410	2269	SW
+ONE	5/12/18 12:00		LO	13.2	-130.3	25	1008	Punta Eugenia		Mexico	1409	2267	SW
+ONE	5/12/18 18:00		LO	13.3	-130.4	20	1009	Punta Eugenia		Mexico	1408	2266	SW
+ONE	5/13/18 0:00		LO	13.4	-130.3	20	1009	Punta Eugenia		Mexico	1398	2251	SW
+ONE	5/13/18 6:00		LO	13.5	-130.2	20	1010	Punta Eugenia		Mexico	1389	2235	SW
+ONE	5/13/18 12:00		LO	13.4	-130.1	20	1010	Punta Eugenia		Mexico	1389	2236	SW
+ALETTA	6/6/18 0:00		TD	14	-105.4	30	1005	Punta San Telmo		Mexico	323	521	SSW
+ALETTA	6/6/18 6:00		TS	14.2	-106.1	35	1004	Punta San Telmo		Mexico	333	536	SSW
+ALETTA	6/6/18 12:00		TS	14.2	-106.8	40	1000	Punta San Telmo		Mexico	360	579	SW
+ALETTA	6/6/18 18:00		TS	14.2	-107.5	45	999	Punta San Telmo		Mexico	390	628	SW
+ALETTA	6/7/18 0:00		TS	14.4	-108.2	50	997	Playa Perula		Mexico	409	658	SSW
+ALETTA	6/7/18 6:00		TS	14.7	-108.7	55	994	Playa Perula		Mexico	409	659	SW
+ALETTA	6/7/18 12:00		TS	14.9	-109.1	55	994	Playa Perula		Mexico	414	667	SW
+ALETTA	6/7/18 18:00		HU	15.1	-109.6	65	987	Playa Perula		Mexico	426	685	SW
+ALETTA	6/8/18 0:00		HU	15.4	-110.1	90	970	Playa Perula		Mexico	435	700	SW
+ALETTA	6/8/18 6:00		HU	15.6	-110.6	105	957	Playa Perula		Mexico	452	727	SW
+ALETTA	6/8/18 12:00		HU	15.7	-111	120	943	Playa Perula		Mexico	469	755	SW
+ALETTA	6/8/18 18:00		HU	15.9	-111.5	120	943	Cabo San Lucas		Mexico	488	786	SSW
+ALETTA	6/9/18 0:00		HU	16	-112	110	953	Cabo San Lucas		Mexico	490	788	SSW
+ALETTA	6/9/18 6:00		HU	16.1	-112.5	100	963	Cabo San Lucas		Mexico	493	794	SSW
+ALETTA	6/9/18 12:00		HU	16.2	-113	90	970	Cabo San Lucas		Mexico	499	803	SSW
+ALETTA	6/9/18 18:00		HU	16.1	-113.5	70	980	Cabo San Lucas		Mexico	519	836	SSW
+ALETTA	6/10/18 0:00		TS	15.9	-114	55	996	Cabo San Lucas		Mexico	547	880	SSW
+ALETTA	6/10/18 6:00		TS	16	-114.4	45	1000	Cabo San Lucas		Mexico	554	892	SSW
+ALETTA	6/10/18 12:00		TS	16.2	-114.8	40	1002	Cabo San Lucas		Mexico	557	896	SW
+ALETTA	6/10/18 18:00		TS	16.5	-115.4	40	1002	Cabo San Lucas		Mexico	564	907	SW
+ALETTA	6/11/18 0:00		TS	16.8	-115.9	40	1002	Cabo San Lucas		Mexico	570	917	SW
+ALETTA	6/11/18 6:00		TS	16.9	-116.5	35	1003	Cabo San Lucas		Mexico	592	953	SW
+ALETTA	6/11/18 12:00		LO	16.8	-117.4	30	1004	Cabo San Lazaro		Mexico	640	1030	SSW
+ALETTA	6/11/18 18:00		LO	16.6	-118	30	1004	Cabo San Lazaro		Mexico	672	1082	SW
+ALETTA	6/12/18 0:00		LO	16.5	-118.5	30	1005	Cabo San Lazaro		Mexico	696	1121	SW
+ALETTA	6/12/18 6:00		LO	16.4	-119	25	1006	Cabo San Lazaro		Mexico	721	1161	SW
+ALETTA	6/12/18 12:00		LO	16.3	-119.5	25	1006	Cabo San Lazaro		Mexico	747	1202	SW
+ALETTA	6/12/18 18:00		LO	16	-119.6	25	1007	Cabo San Lazaro		Mexico	767	1234	SW
+ALETTA	6/13/18 0:00		LO	15.7	-119.6	25	1007	Cabo San Lazaro		Mexico	784	1261	SW
+ALETTA	6/13/18 6:00		LO	15.5	-119.4	25	1008	Cabo San Lazaro		Mexico	787	1267	SW
+ALETTA	6/13/18 12:00		LO	15.6	-119.3	20	1008	Cabo San Lazaro		Mexico	778	1251	SW
+ALETTA	6/13/18 18:00		LO	15.7	-119.3	20	1008	Cabo San Lazaro		Mexico	772	1242	SW
+ALETTA	6/14/18 0:00		LO	15.9	-119.3	20	1008	Cabo San Lazaro		Mexico	761	1224	SW
+ALETTA	6/14/18 6:00		LO	16	-119.3	20	1008	Cabo San Lazaro		Mexico	755	1215	SW
+ALETTA	6/14/18 12:00		LO	16.1	-119.2	20	1008	Cabo San Lazaro		Mexico	746	1200	SW
+ALETTA	6/14/18 18:00		LO	16.3	-119	20	1008	Cabo San Lazaro		Mexico	727	1170	SW
+ALETTA	6/15/18 0:00		LO	16.4	-118.8	20	1008	Cabo San Lazaro		Mexico	713	1148	SW
+ALETTA	6/15/18 6:00		LO	16.4	-118.3	20	1008	Cabo San Lazaro		Mexico	695	1118	SW
+ALETTA	6/15/18 12:00		LO	16.3	-117.8	20	1008	Cabo San Lazaro		Mexico	683	1099	SSW
+ALETTA	6/15/18 18:00		LO	16.3	-117.3	20	1008	Cabo San Lucas		Mexico	659	1060	SW
+ALETTA	6/16/18 0:00		LO	16.2	-116.8	20	1008	Cabo San Lucas		Mexico	640	1031	SW
+BUD	6/9/18 18:00		TD	12.1	-100.5	30	1006	Punta Maldonado		Mexico	318	512	SSW
+BUD	6/10/18 0:00		TS	12.7	-101.3	35	1003	Acapulco		Mexico	298	480	SSW
+BUD	6/10/18 6:00		TS	13.5	-102.1	45	1000	Tecpan De Galeana		Mexico	271	437	SSW
+BUD	6/10/18 12:00		TS	14.4	-102.9	55	996	Zihuatanejo		Mexico	240	387	SSW
+BUD	6/10/18 18:00		HU	15.1	-103.8	65	990	Punta San Telmo		Mexico	222	357	S
+BUD	6/11/18 0:00		HU	15.7	-104.6	75	981	Punta San Telmo		Mexico	195	314	SSW
+BUD	6/11/18 6:00		HU	16.1	-105.6	90	970	Punta San Telmo		Mexico	208	335	SW
+BUD	6/11/18 12:00		HU	16.4	-106.4	100	960	Manzanillo		Mexico	228	366	SW
+BUD	6/11/18 18:00		HU	16.8	-106.9	110	952	Playa Perula		Mexico	223	359	SSW
+BUD	6/12/18 0:00		HU	17.3	-107.4	120	943	Playa Perula		Mexico	215	347	SW
+BUD	6/12/18 6:00		HU	17.7	-107.8	115	947	Playa Perula		Mexico	217	349	SW
+BUD	6/12/18 12:00		HU	18	-108.1	110	951	Playa Perula		Mexico	222	357	WSW
+BUD	6/12/18 18:00		HU	18.3	-108.3	100	960	Playa Perula		Mexico	225	361	WSW
+BUD	6/13/18 0:00		HU	18.6	-108.5	85	970	Cabo Corrientes		Mexico	222	358	SW
+BUD	6/13/18 6:00		HU	18.9	-108.6	70	983	Cabo Corrientes		Mexico	217	349	WSW
+BUD	6/13/18 12:00		TS	19.2	-108.7	60	990	Cabo Corrientes		Mexico	214	344	WSW
+BUD	6/13/18 18:00		TS	19.7	-108.9	45	995	Cabo Corrientes		Mexico	215	346	WSW
+BUD	6/14/18 0:00		TS	20.3	-109.1	45	998	Cabo San Lucas		Mexico	182	293	SSE
+BUD	6/14/18 6:00		TS	20.8	-109.3	40	999	Cabo San Lucas		Mexico	146	235	SSE
+BUD	6/14/18 12:00		TS	21.3	-109.5	40	999	Cabo San Lucas		Mexico	109	176	SSE
+BUD	6/14/18 18:00		TS	21.9	-109.6	40	999	Cabo San Lucas		Mexico	68	109	SSE
+BUD	6/15/18 0:00		TS	22.7	-109.7	40	999	Cabo San Lucas		Mexico	17	27	SE
+BUD	6/15/18 2:00	L	TS	23	-109.7	40	999	Cabo San Lucas		Mexico	17	28	NE
+BUD	6/15/18 6:00		TS	23.8	-109.9	35	1001	Los Barriles		Mexico	16	25	WNW
+BUD	6/15/18 12:00		LO	24.7	-110.1	35	1002	La Paz		Mexico	39	63	NNE
+BUD	6/15/18 18:00		LO	25.5	-110.2	35	1002	San Evaristo		Mexico	51	83	NE
+BUD	6/16/18 0:00		LO	26.4	-110.1	30	1002	Huatabampito		Mexico	32	52	SW
+CARLOTTA	6/14/18 18:00		TD	14.9	-100	30	1008	Acapulco		Mexico	132	212	S
+CARLOTTA	6/15/18 0:00		TD	15.1	-100	30	1007	Acapulco		Mexico	118	190	S
+CARLOTTA	6/15/18 6:00		TD	15.4	-99.9	30	1007	Acapulco		Mexico	97	156	S
+CARLOTTA	6/15/18 12:00		TD	15.6	-99.8	30	1007	Acapulco		Mexico	83	134	S
+CARLOTTA	6/15/18 18:00		TS	15.8	-99.6	35	1006	Acapulco		Mexico	72	116	SSE
+CARLOTTA	6/16/18 0:00		TS	15.9	-99.4	35	1006	Punta Maldonado		Mexico	63	101	WSW
+CARLOTTA	6/16/18 6:00		TS	15.9	-99.3	45	1000	Punta Maldonado		Mexico	57	91	WSW
+CARLOTTA	6/16/18 12:00		TS	15.9	-99.2	45	1000	Punta Maldonado		Mexico	51	82	SW
+CARLOTTA	6/16/18 18:00		TS	16	-99.2	45	1000	Punta Maldonado		Mexico	48	77	WSW
+CARLOTTA	6/17/18 0:00		TS	16.4	-99.5	55	997	Acapulco		Mexico	38	61	SE
+CARLOTTA	6/17/18 6:00		TS	16.6	-100.4	45	1000	Acapulco		Mexico	37	60	WSW
+CARLOTTA	6/17/18 12:00		TS	16.8	-101	35	1005	Tecpan De Galeana		Mexico	36	58	SW
+CARLOTTA	6/17/18 18:00		TD	17	-101.7	25	1007	Zihuatanejo		Mexico	45	73	SSW
+CARLOTTA	6/18/18 0:00		TD	17.2	-102.2	25	1007	Lazaro Cardenas		Mexico	50	80	S
+CARLOTTA	6/18/18 6:00		TD	17.4	-102.6	25	1008	Lazaro Cardenas		Mexico	46	74	SW
+CARLOTTA	6/18/18 12:00		TD	17.7	-103	25	1008	Punta San Telmo		Mexico	51	83	SE
+CARLOTTA	6/18/18 18:00		TD	18	-103.3	25	1007	Punta San Telmo		Mexico	23	38	SSE
+CARLOTTA	6/19/18 0:00		LO	18.1	-103.5	20	1008	Punta San Telmo		Mexico	15	24	SSW
+DANIEL	6/23/18 0:00		LO	12.4	-115.9	20	1009	Cabo San Lucas		Mexico	819	1318	SSW
+DANIEL	6/23/18 6:00		LO	12.6	-115.7	25	1009	Cabo San Lucas		Mexico	801	1289	SSW
+DANIEL	6/23/18 12:00		LO	12.8	-115.5	25	1008	Cabo San Lucas		Mexico	782	1259	SSW
+DANIEL	6/23/18 18:00		LO	13.1	-115.5	25	1008	Cabo San Lucas		Mexico	764	1229	SSW
+DANIEL	6/24/18 0:00		TD	13.7	-115.5	30	1007	Cabo San Lucas		Mexico	728	1171	SSW
+DANIEL	6/24/18 6:00		TD	14.6	-115.6	30	1007	Cabo San Lucas		Mexico	678	1091	SW
+DANIEL	6/24/18 12:00		TS	15.5	-115.8	35	1006	Cabo San Lucas		Mexico	635	1021	SW
+DANIEL	6/24/18 18:00		TS	16.6	-116	40	1004	Cabo San Lucas		Mexico	584	940	SW
+DANIEL	6/25/18 0:00		TS	17.6	-116.3	40	1004	Cabo San Lucas		Mexico	549	884	SW
+DANIEL	6/25/18 6:00		TS	18.4	-116.6	40	1004	Cabo San Lazaro		Mexico	518	834	SSW
+DANIEL	6/25/18 12:00		TS	18.8	-117.3	35	1005	Cabo San Lazaro		Mexico	522	840	SW
+DANIEL	6/25/18 18:00		TD	19.2	-117.8	30	1006	Cabo San Lazaro		Mexico	522	839	SW
+DANIEL	6/26/18 0:00		TD	19.6	-118.4	30	1007	Cabo San Lazaro		Mexico	529	852	SW
+DANIEL	6/26/18 6:00		LO	19.8	-119	25	1007	Cabo San Lazaro		Mexico	550	885	SW
+DANIEL	6/26/18 12:00		LO	19.9	-119.7	25	1008	Cabo San Lazaro		Mexico	581	936	WSW
+DANIEL	6/26/18 18:00		LO	20	-120.3	25	1008	Cabo San Lazaro		Mexico	609	981	WSW
+DANIEL	6/27/18 0:00		LO	19.9	-121	25	1009	Cabo San Lazaro		Mexico	651	1048	WSW
+DANIEL	6/27/18 6:00		LO	19.7	-121.7	20	1009	Cabo San Lazaro		Mexico	697	1122	WSW
+DANIEL	6/27/18 12:00		LO	19.6	-122.5	20	1010	Punta Eugenia		Mexico	738	1188	SW
+DANIEL	6/27/18 18:00		LO	19.5	-123.5	20	1010	Punta Eugenia		Mexico	785	1263	SW
+DANIEL	6/28/18 0:00		LO	19.4	-124.4	20	1010	Punta Eugenia		Mexico	830	1335	SW
+DANIEL	6/28/18 6:00		LO	19.3	-125.3	20	1010	Punta Eugenia		Mexico	876	1410	SW
+EMILIA	6/27/18 6:00		LO	11.7	-107	30	1007	Punta San Telmo		Mexico	513	825	SSW
+EMILIA	6/27/18 12:00		LO	12.4	-107.5	30	1007	Punta San Telmo		Mexico	488	785	SW
+EMILIA	6/27/18 18:00		TD	12.8	-108.1	30	1007	Punta San Telmo		Mexico	489	788	SW
+EMILIA	6/28/18 0:00		TD	13.2	-109.3	30	1006	Playa Perula		Mexico	518	833	SSW
+EMILIA	6/28/18 6:00		TD	13.7	-110.5	30	1006	Playa Perula		Mexico	538	865	SW
+EMILIA	6/28/18 12:00		TS	14.2	-111.8	35	1005	Playa Perula		Mexico	575	925	SW
+EMILIA	6/28/18 18:00		TS	14.7	-113.1	40	1004	Cabo San Lucas		Mexico	598	962	SSW
+EMILIA	6/29/18 0:00		TS	15.1	-114	45	1000	Cabo San Lucas		Mexico	596	959	SSW
+EMILIA	6/29/18 6:00		TS	15.6	-115	45	1000	Cabo San Lucas		Mexico	599	963	SW
+EMILIA	6/29/18 12:00		TS	16	-115.8	50	997	Cabo San Lucas		Mexico	607	977	SW
+EMILIA	6/29/18 18:00		TS	16.4	-116.5	50	997	Cabo San Lucas		Mexico	617	993	SW
+EMILIA	6/30/18 0:00		TS	16.6	-117.3	40	1000	Cabo San Lucas		Mexico	645	1038	SW
+EMILIA	6/30/18 6:00		TS	16.8	-118.1	35	1003	Cabo San Lazaro		Mexico	664	1069	SW
+EMILIA	6/30/18 12:00		TD	17.4	-118.8	30	1004	Cabo San Lazaro		Mexico	659	1060	SW
+EMILIA	6/30/18 18:00		TD	17.8	-119.7	30	1004	Cabo San Lazaro		Mexico	677	1090	SW
+EMILIA	7/1/18 0:00		TD	18.2	-120.6	30	1005	Cabo San Lazaro		Mexico	701	1128	SW
+EMILIA	7/1/18 6:00		TD	18.7	-121.5	25	1006	Cabo San Lazaro		Mexico	725	1167	WSW
+EMILIA	7/1/18 12:00		TD	19.1	-122.5	25	1006	Cabo San Lazaro		Mexico	763	1228	WSW
+EMILIA	7/1/18 18:00		TD	19.5	-123.5	25	1007	Punta Eugenia		Mexico	785	1263	SW
+EMILIA	7/2/18 0:00		LO	20	-124.7	25	1007	Punta Eugenia		Mexico	815	1311	SW
+EMILIA	7/2/18 6:00		LO	20.6	-125.8	25	1008	Punta Eugenia		Mexico	841	1354	SW
+EMILIA	7/2/18 12:00		LO	21.3	-127	25	1008	Punta Eugenia		Mexico	876	1410	WSW
+EMILIA	7/2/18 18:00		LO	21.9	-128.1	25	1008	Punta Eugenia		Mexico	915	1473	WSW
+EMILIA	7/3/18 0:00		LO	22.4	-129.2	20	1009	Punta Eugenia		Mexico	962	1548	WSW
+EMILIA	7/3/18 6:00		LO	22.8	-130.4	20	1009	Point Conception	California	United States	1003	1615	SW
+EMILIA	7/3/18 12:00		LO	23.1	-131.7	20	1009	Point Conception	California	United States	1036	1668	SW
+EMILIA	7/3/18 18:00		LO	23.3	-133.2	20	1009	Point Conception	California	United States	1088	1750	SW
+EMILIA	7/4/18 0:00		LO	23.4	-134.6	20	1009	Point Conception	California	United States	1144	1841	SW
+FABIO	6/30/18 18:00		TD	11	-103.8	30	1006	Tecpan De Galeana		Mexico	475	765	SSW
+FABIO	7/1/18 0:00		TD	11.3	-104.8	30	1005	Zihuatanejo		Mexico	487	784	SSW
+FABIO	7/1/18 6:00		TS	11.6	-105.8	40	1002	Punta San Telmo		Mexico	487	784	SSW
+FABIO	7/1/18 12:00		TS	12	-106.8	45	1000	Punta San Telmo		Mexico	488	785	SSW
+FABIO	7/1/18 18:00		TS	12.3	-107.9	50	998	Punta San Telmo		Mexico	509	819	SW
+FABIO	7/2/18 0:00		TS	12.4	-108.8	55	996	Punta San Telmo		Mexico	541	870	SW
+FABIO	7/2/18 6:00		TS	12.5	-109.6	60	993	Playa Perula		Mexico	569	916	SSW
+FABIO	7/2/18 12:00		HU	12.9	-110.4	65	989	Playa Perula		Mexico	576	928	SW
+FABIO	7/2/18 18:00		HU	13.5	-111.3	70	983	Playa Perula		Mexico	584	940	SW
+FABIO	7/3/18 0:00		HU	14.2	-112.4	75	979	Playa Perula		Mexico	606	975	SW
+FABIO	7/3/18 6:00		HU	14.7	-113.6	85	973	Cabo San Lucas		Mexico	610	981	SSW
+FABIO	7/3/18 12:00		HU	15	-114.8	90	969	Cabo San Lucas		Mexico	627	1009	SSW
+FABIO	7/3/18 18:00		HU	15.5	-116	95	964	Cabo San Lucas		Mexico	643	1034	SW
+FABIO	7/4/18 0:00		HU	16.2	-117.3	95	964	Cabo San Lucas		Mexico	664	1068	SW
+FABIO	7/4/18 6:00		HU	16.7	-118.7	90	968	Cabo San Lazaro		Mexico	693	1115	SW
+FABIO	7/4/18 12:00		HU	16.9	-119.9	85	970	Cabo San Lazaro		Mexico	732	1177	SW
+FABIO	7/4/18 18:00		HU	17.4	-121	80	973	Cabo San Lazaro		Mexico	757	1219	SW
+FABIO	7/5/18 0:00		HU	18.1	-122.2	75	977	Cabo San Lazaro		Mexico	786	1266	SW
+FABIO	7/5/18 6:00		TS	19	-123.4	60	988	Punta Eugenia		Mexico	807	1299	SW
+FABIO	7/5/18 12:00		TS	19.8	-124.8	55	992	Punta Eugenia		Mexico	829	1334	SW
+FABIO	7/5/18 18:00		TS	20.4	-126.2	45	998	Punta Eugenia		Mexico	870	1401	SW
+FABIO	7/6/18 0:00		TS	20.9	-127.4	40	1003	Punta Eugenia		Mexico	913	1469	WSW
+FABIO	7/6/18 6:00		LO	21.3	-128.5	35	1005	Punta Eugenia		Mexico	958	1542	WSW
+FABIO	7/6/18 12:00		LO	21.8	-129.5	30	1006	Punta Eugenia		Mexico	998	1606	WSW
+FABIO	7/6/18 18:00		LO	22.5	-130.5	30	1006	Point Conception	California	United States	1024	1648	SW
+FABIO	7/7/18 0:00		LO	23.2	-131.5	30	1006	Point Conception	California	United States	1023	1646	SW
+FABIO	7/7/18 6:00		LO	23.7	-132.4	30	1006	Point Conception	California	United States	1033	1663	SW
+FABIO	7/7/18 12:00		LO	24.2	-133.4	25	1007	Point Conception	California	United States	1051	1692	SW
+FABIO	7/7/18 18:00		LO	24.7	-134.4	25	1007	Point Conception	California	United States	1073	1727	SW
+FABIO	7/8/18 0:00		LO	25.2	-135.2	20	1007	Point Conception	California	United States	1089	1753	WSW
+FABIO	7/8/18 6:00		LO	25.6	-136.1	20	1007	Point Conception	California	United States	1117	1797	WSW
+FABIO	7/8/18 12:00		LO	25.9	-137.1	20	1007	Point Piedras Blancas	California	United States	1153	1856	WSW
+FABIO	7/8/18 18:00		LO	26.2	-138.1	20	1007	Point Piedras Blancas	California	United States	1189	1914	WSW
+FABIO	7/9/18 0:00		LO	26.4	-138.7	15	1008	Hawaii	Hawaii	United States	1165	1875	ENE
+FABIO	7/9/18 6:00		LO	26.5	-139.1	15	1008	Hawaii	Hawaii	United States	1144	1842	ENE
+EIGHT	7/26/18 12:00		TD	13	-121.6	30	1008	Cabo San Lazaro		Mexico	1013	1630	SW
+EIGHT	7/26/18 18:00		TS	13.4	-123.2	35	1007	Cabo San Lazaro		Mexico	1058	1702	SW
+EIGHT	7/27/18 0:00		TS	13.8	-124.8	35	1006	Cabo San Lazaro		Mexico	1111	1789	SW
+EIGHT	7/27/18 6:00		TS	14.2	-126.3	40	1005	Cabo San Lazaro		Mexico	1167	1878	SW
+EIGHT	7/27/18 12:00		TS	14.5	-127.7	35	1006	Punta Eugenia		Mexico	1227	1974	SW
+EIGHT	7/27/18 18:00		TD	14.7	-129.2	30	1007	Punta Eugenia		Mexico	1283	2064	SW
+EIGHT	7/28/18 0:00		TD	14.8	-130.6	30	1007	Punta Eugenia		Mexico	1343	2161	SW
+EIGHT	7/28/18 6:00		TD	15	-131.9	30	1007	Punta Eugenia		Mexico	1397	2248	SW
+EIGHT	7/28/18 12:00		TD	15.3	-133	30	1007	Punta Eugenia		Mexico	1439	2316	WSW
+EIGHT	7/28/18 18:00		TD	15.7	-134.1	30	1008	Hawaii	Hawaii	United States	1436	2310	E
+EIGHT	7/29/18 0:00		TD	16	-135.2	30	1008	Hawaii	Hawaii	United States	1360	2188	E
+EIGHT	7/29/18 6:00		TD	16.1	-136.5	30	1008	Hawaii	Hawaii	United States	1274	2050	E
+EIGHT	7/29/18 12:00		LO	16.1	-137.9	30	1008	Hawaii	Hawaii	United States	1184	1905	E
+EIGHT	7/29/18 18:00		LO	16.1	-139.3	30	1008	Hawaii	Hawaii	United States	1094	1760	E
+EIGHT	7/30/18 0:00		LO	16.1	-140.8	30	1008	Hawaii	Hawaii	United States	998	1606	ESE
+EIGHT	7/30/18 6:00		LO	16.1	-142.3	30	1008	Hawaii	Hawaii	United States	903	1452	ESE
+EIGHT	7/30/18 12:00		LO	16	-143.8	30	1008	Hawaii	Hawaii	United States	810	1304	ESE
+EIGHT	7/30/18 18:00		LO	15.8	-145.2	30	1008	Hawaii	Hawaii	United States	728	1172	ESE
+EIGHT	7/31/18 0:00		LO	15.7	-146.5	25	1008	Hawaii	Hawaii	United States	652	1050	ESE
+EIGHT	7/31/18 6:00		LO	15.7	-147.6	25	1009	Hawaii	Hawaii	United States	587	945	ESE
+EIGHT	7/31/18 12:00		LO	15.7	-148.8	20	1009	Hawaii	Hawaii	United States	518	834	ESE
+EIGHT	7/31/18 18:00		LO	15.7	-150	20	1010	Hawaii	Hawaii	United States	453	729	SE
+NINE	7/26/18 18:00		TD	10.9	-135	30	1007	Hawaii	Hawaii	United States	1493	2402	ESE
+NINE	7/27/18 0:00		TD	10.8	-136.1	30	1007	Hawaii	Hawaii	United States	1429	2300	ESE
+NINE	7/27/18 6:00		TD	10.7	-137.2	30	1007	Hawaii	Hawaii	United States	1366	2199	ESE
+NINE	7/27/18 12:00		TD	10.6	-138.2	30	1007	Hawaii	Hawaii	United States	1311	2110	ESE
+NINE	7/27/18 18:00		TD	10.6	-139.1	25	1008	Hawaii	Hawaii	United States	1258	2025	ESE
+HECTOR	7/31/18 12:00		TD	12.3	-115.1	30	1007	Cabo San Lucas		Mexico	801	1290	SSW
+HECTOR	7/31/18 18:00		TD	12.7	-116.4	30	1007	Cabo San Lucas		Mexico	818	1316	SSW
+HECTOR	8/1/18 0:00		TS	13	-117.6	35	1006	Cabo San Lucas		Mexico	845	1359	SW
+HECTOR	8/1/18 6:00		TS	13.3	-118.7	35	1006	Cabo San Lucas		Mexico	874	1406	SW
+HECTOR	8/1/18 12:00		TS	13.5	-119.7	40	1004	Cabo San Lucas		Mexico	909	1462	SW
+HECTOR	8/1/18 18:00		TS	13.7	-120.7	45	1002	Cabo San Lazaro		Mexico	938	1510	SW
+HECTOR	8/2/18 0:00		TS	13.9	-121.7	50	1000	Cabo San Lazaro		Mexico	967	1556	SW
+HECTOR	8/2/18 6:00		TS	14.1	-122.8	60	995	Cabo San Lazaro		Mexico	1004	1616	SW
+HECTOR	8/2/18 12:00		HU	14.2	-123.9	75	987	Cabo San Lazaro		Mexico	1049	1689	SW
+HECTOR	8/2/18 18:00		HU	14.2	-125.1	90	975	Cabo San Lazaro		Mexico	1107	1781	SW
+HECTOR	8/3/18 0:00		HU	14.1	-126.2	90	976	Cabo San Lazaro		Mexico	1166	1877	SW
+HECTOR	8/3/18 6:00		HU	14.1	-127.3	85	980	Cabo San Lazaro		Mexico	1223	1968	SW
+HECTOR	8/3/18 12:00		HU	14.1	-128.3	80	983	Punta Eugenia		Mexico	1274	2050	SW
+HECTOR	8/3/18 18:00		HU	14.1	-129.3	90	975	Punta Eugenia		Mexico	1318	2121	SW
+HECTOR	8/4/18 0:00		HU	14.2	-130.3	100	967	Punta Eugenia		Mexico	1358	2186	SW
+HECTOR	8/4/18 6:00		HU	14.2	-131.3	105	962	Punta Eugenia		Mexico	1405	2262	SW
+HECTOR	8/4/18 12:00		HU	14.2	-132.2	105	961	Punta Eugenia		Mexico	1449	2332	SW
+HECTOR	8/4/18 18:00		HU	14.2	-133.1	110	957	Punta Eugenia		Mexico	1493	2404	SW
+HECTOR	8/5/18 0:00		HU	14.3	-134.1	110	957	Hawaii	Hawaii	United States	1462	2353	ESE
+HECTOR	8/5/18 6:00		HU	14.3	-135.2	110	957	Hawaii	Hawaii	United States	1392	2240	ESE
+HECTOR	8/5/18 12:00		HU	14.3	-136.3	110	956	Hawaii	Hawaii	United States	1322	2127	ESE
+HECTOR	8/5/18 18:00		HU	14.3	-137.4	115	951	Hawaii	Hawaii	United States	1252	2015	ESE
+HECTOR	8/6/18 0:00		HU	14.5	-138.6	120	947	Hawaii	Hawaii	United States	1172	1886	ESE
+HECTOR	8/6/18 6:00		HU	14.7	-139.9	125	944	Hawaii	Hawaii	United States	1085	1747	ESE
+HECTOR	8/6/18 12:00		HU	14.9	-141.3	130	939	Hawaii	Hawaii	United States	993	1598	ESE
+HECTOR	8/6/18 18:00		HU	15.1	-142.5	135	936	Hawaii	Hawaii	United States	913	1470	ESE
+HECTOR	8/7/18 0:00		HU	15.5	-144	135	936	Hawaii	Hawaii	United States	810	1304	ESE
+HECTOR	8/7/18 6:00		HU	15.7	-145.6	130	939	Hawaii	Hawaii	United States	707	1137	ESE
+HECTOR	8/7/18 12:00		HU	16	-147	120	948	Hawaii	Hawaii	United States	613	987	ESE
+HECTOR	8/7/18 18:00		HU	16.2	-148.4	120	948	Hawaii	Hawaii	United States	524	843	ESE
+HECTOR	8/8/18 0:00		HU	16.4	-150	115	952	Hawaii	Hawaii	United States	425	684	ESE
+HECTOR	8/8/18 6:00		HU	16.4	-151.6	115	952	Hawaii	Hawaii	United States	340	548	SE
+HECTOR	8/8/18 12:00		HU	16.4	-153.2	110	956	Hawaii	Hawaii	United States	270	434	SE
+HECTOR	8/8/18 18:00		HU	16.4	-154.6	100	959	Hawaii	Hawaii	United States	231	372	SSE
+HECTOR	8/9/18 0:00		HU	16.5	-156.1	100	959	Hawaii	Hawaii	United States	220	354	S
+HECTOR	8/9/18 6:00		HU	16.6	-157.7	100	959	Hawaii	Hawaii	United States	255	410	SW
+HECTOR	8/9/18 12:00		HU	16.6	-159.3	105	957	Hawaii	Hawaii	United States	326	525	SW
+HECTOR	8/9/18 18:00		HU	16.7	-160.8	105	957	Oahu	Hawaii	United States	375	604	SSW
+HECTOR	8/10/18 0:00		HU	16.9	-162.3	110	956	Kauai	Hawaii	United States	399	642	SSW
+HECTOR	8/10/18 6:00		HU	17.2	-163.7	115	951	Johnston Atoll	Hawaii	United States	385	620	E
+HECTOR	8/10/18 12:00		HU	17.5	-165.2	115	951	Johnston Atoll	Hawaii	United States	289	465	E
+HECTOR	8/10/18 18:00		HU	17.7	-166.6	120	947	Johnston Atoll	Hawaii	United States	202	326	ENE
+HECTOR	8/11/18 0:00		HU	18.1	-167.8	115	951	Johnston Atoll	Hawaii	United States	146	234	NE
+HECTOR	8/11/18 6:00		HU	18.5	-168.8	105	957	Johnston Atoll	Hawaii	United States	129	207	NNE
+HECTOR	8/11/18 12:00		HU	19	-169.7	100	961	Johnston Atoll	Hawaii	United States	155	250	N
+HECTOR	8/11/18 18:00		HU	19.6	-170.4	95	965	Johnston Atoll	Hawaii	United States	205	329	NNW
+HECTOR	8/12/18 0:00		HU	20.7	-171.3	90	969	Johnston Atoll	Hawaii	United States	296	477	NNW
+HECTOR	8/12/18 6:00		HU	21.6	-172.4	85	973	Maro Reef to Lisianski Island	Hawaii	United States	284	456	SSW
+HECTOR	8/12/18 12:00		HU	22.4	-173.6	75	982	Lisianski Island to Pearl Hermes	Hawaii	United States	253	407	S
+HECTOR	8/12/18 18:00		HU	23.2	-175.1	65	988	Lisianski Island to Pearl Hermes	Hawaii	United States	210	337	SSW
+HECTOR	8/13/18 0:00		TS	24.2	-176.4	60	991	Lisianski Island to Pearl Hermes	Hawaii	United States	199	321	SW
+HECTOR	8/13/18 6:00		TS	24.7	-178	55	995	Midway Island	Hawaii	United States	245	394	S
+HECTOR	8/13/18 12:00		TS	25.1	-179.5	45	1001	Kure Atoll	Hawaii	United States	239	385	SSW
+HECTOR	8/13/18 18:00		TS	25.4	178.7	40	1005	Kure Atoll	Hawaii	United States	277	446	SW
+HECTOR	8/14/18 0:00		TS	25.8	177.2	35	1008	Kure Atoll	Hawaii	United States	330	531	WSW
+HECTOR	8/14/18 6:00		TD	26.3	175.9	30	1011	Kure Atoll	Hawaii	United States	385	619	WSW
+HECTOR	8/14/18 12:00		TD	27.1	174.2	30	1010	Kure Atoll	Hawaii	United States	468	753	W
+HECTOR	8/14/18 18:00		TS	27.9	172.6	40	1004	Kure Atoll	Hawaii	United States	556	895	W
+HECTOR	8/15/18 0:00		SS	28.7	170.8	40	1004	Kure Atoll	Hawaii	United States	663	1067	W
+HECTOR	8/15/18 6:00		SS	29.3	168.9	35	1007	Kure Atoll	Hawaii	United States	778	1252	W
+HECTOR	8/15/18 12:00		SD	29.8	167.9	30	1009	Kure Atoll	Hawaii	United States	840	1351	W
+HECTOR	8/15/18 18:00		SD	30.5	167.2	25	1009	Kure Atoll	Hawaii	United States	885	1425	WNW
+HECTOR	8/16/18 0:00		SD	31.5	166.4	25	1008	Kure Atoll	Hawaii	United States	941	1515	WNW
+HECTOR	8/16/18 6:00		DB	32.3	165.8	20	1010	Kure Atoll	Hawaii	United States	986	1587	WNW
+HECTOR	8/16/18 12:00		DB	32.9	165.6	15	1013	Kure Atoll	Hawaii	United States	1006	1620	WNW
+HECTOR	8/16/18 18:00		DB	33.6	165.9	15	1013	Kure Atoll	Hawaii	United States	1002	1613	WNW
+ILEANA	8/4/18 18:00		TD	12.3	-94.5	25	1008	MX/Guatemala Border			216	348	SW
+ILEANA	8/5/18 0:00		TD	12.8	-95.5	25	1008	Bahias De Huatulco		Mexico	205	329	SSE
+ILEANA	8/5/18 6:00		TD	13	-96.3	30	1006	Puerto Angel		Mexico	183	295	S
+ILEANA	8/5/18 12:00		TS	13.3	-97.1	35	1006	Puerto Angel		Mexico	167	269	SSW
+ILEANA	8/5/18 18:00		TS	13.6	-97.9	45	1003	Lagunas De Chacahua		Mexico	164	264	S
+ILEANA	8/6/18 0:00		TS	14.1	-98.8	50	1001	Lagunas De Chacahua		Mexico	150	242	SSW
+ILEANA	8/6/18 6:00		TS	14.9	-100	50	999	Acapulco		Mexico	132	212	S
+ILEANA	8/6/18 12:00		TS	15.8	-101.2	55	998	Tecpan De Galeana		Mexico	102	164	SSW
+ILEANA	8/6/18 18:00		TS	16.7	-102.6	55	999	Lazaro Cardenas		Mexico	89	143	SSW
+ILEANA	8/7/18 0:00		TS	17.7	-104.2	50	999	Punta San Telmo		Mexico	65	104	SW
+ILEANA	8/7/18 6:00		TS	19	-106	45	1002	Playa Perula		Mexico	68	110	SW
+JOHN	8/5/18 12:00		TD	13.7	-105	30	1006	Punta San Telmo		Mexico	333	536	SSW
+JOHN	8/5/18 18:00		TD	14.2	-105.5	30	1006	Punta San Telmo		Mexico	314	505	SSW
+JOHN	8/6/18 0:00		TS	14.5	-106.3	35	1004	Punta San Telmo		Mexico	323	520	SW
+JOHN	8/6/18 6:00		TS	14.8	-107	45	1001	Punta San Telmo		Mexico	337	543	SW
+JOHN	8/6/18 12:00		TS	15.3	-107.5	55	996	Manzanillo		Mexico	332	535	SW
+JOHN	8/6/18 18:00		HU	15.9	-107.9	65	990	Playa Perula		Mexico	311	501	SW
+JOHN	8/7/18 0:00		HU	16.5	-108.4	70	984	Playa Perula		Mexico	301	484	SW
+JOHN	8/7/18 6:00		HU	17.1	-109	80	977	Playa Perula		Mexico	305	491	WSW
+JOHN	8/7/18 12:00		HU	17.7	-109.5	90	969	Cabo Corrientes		Mexico	312	502	SW
+JOHN	8/7/18 18:00		HU	18.3	-110.1	95	964	Cabo San Lucas		Mexico	313	503	S
+JOHN	8/8/18 0:00		HU	18.9	-110.8	90	968	Cabo San Lucas		Mexico	277	446	SSW
+JOHN	8/8/18 6:00		HU	19.6	-111.5	80	975	Cabo San Lucas		Mexico	245	395	SSW
+JOHN	8/8/18 12:00		HU	20.5	-112.2	75	979	Cabo San Lucas		Mexico	218	351	SW
+JOHN	8/8/18 18:00		HU	21.5	-113	75	979	Santa Fe		Mexico	215	346	SW
+JOHN	8/9/18 0:00		HU	22.5	-114.1	70	982	Cabo San Lazaro		Mexico	194	312	SW
+JOHN	8/9/18 6:00		HU	23.3	-115.3	65	986	Cabo San Lazaro		Mexico	217	348	WSW
+JOHN	8/9/18 12:00		TS	23.9	-116.7	60	989	Punta Abreojos		Mexico	275	442	SW
+JOHN	8/9/18 18:00		TS	24.4	-117.8	55	992	Punta Eugenia		Mexico	293	471	SW
+JOHN	8/10/18 0:00		TS	25	-118.7	50	996	Punta Eugenia		Mexico	299	482	SW
+JOHN	8/10/18 6:00		TS	25.6	-119.5	45	999	Punta Eugenia		Mexico	316	508	WSW
+JOHN	8/10/18 12:00		LO	26.3	-120.3	35	1002	Punta Eugenia		Mexico	341	548	WSW
+JOHN	8/10/18 18:00		LO	26.9	-121.2	30	1003	Punta Eugenia		Mexico	384	617	W
+JOHN	8/11/18 0:00		LO	27.2	-122	30	1003	Cabo San Quintin		Mexico	425	685	WSW
+JOHN	8/11/18 6:00		LO	27.4	-122.7	30	1003	Cabo San Quintin		Mexico	455	733	WSW
+JOHN	8/11/18 12:00		LO	27.7	-123.3	30	1003	Cabo San Quintin		Mexico	479	771	WSW
+JOHN	8/11/18 18:00		LO	28	-123.6	30	1006	Point Conception	California	United States	482	775	SSW
+JOHN	8/12/18 0:00		LO	28.1	-123.8	25	1008	Point Conception	California	United States	480	773	SSW
+JOHN	8/12/18 6:00		LO	28.2	-124	20	1009	Point Conception	California	United States	479	771	SSW
+JOHN	8/12/18 12:00		LO	28.3	-124.2	20	1009	Point Conception	California	United States	478	769	SSW
+JOHN	8/12/18 18:00		LO	28.5	-124	20	1009	Point Conception	California	United States	460	741	SSW
+JOHN	8/13/18 0:00		LO	28.4	-123.6	20	1009	Point Conception	California	United States	456	735	SSW
+JOHN	8/13/18 6:00		LO	28.4	-123	20	1009	Point Conception	California	United States	443	713	SSW
+JOHN	8/13/18 12:00		LO	28.4	-122.3	20	1009	Cabo San Quintin		Mexico	404	650	WSW
+JOHN	8/13/18 18:00		LO	28.4	-121.6	20	1009	Cabo San Quintin		Mexico	364	586	WSW
+KRISTY	8/6/18 18:00		TD	14.8	-122.6	30	1005	Cabo San Lazaro		Mexico	959	1544	SW
+KRISTY	8/7/18 0:00		TS	14.6	-123.6	35	1004	Cabo San Lazaro		Mexico	1016	1634	SW
+KRISTY	8/7/18 6:00		TS	14.4	-124.6	45	1000	Cabo San Lazaro		Mexico	1073	1727	SW
+KRISTY	8/7/18 12:00		TS	14.1	-125.6	45	1000	Cabo San Lazaro		Mexico	1136	1829	SW
+KRISTY	8/7/18 18:00		TS	14	-126.6	45	1000	Cabo San Lazaro		Mexico	1191	1917	SW
+KRISTY	8/8/18 0:00		TS	14	-127.4	40	1002	Cabo San Lazaro		Mexico	1232	1983	SW
+KRISTY	8/8/18 6:00		TS	14	-128.2	40	1002	Cabo San Lazaro		Mexico	1274	2051	WSW
+KRISTY	8/8/18 12:00		TS	14.3	-128.9	40	1002	Punta Eugenia		Mexico	1290	2075	SW
+KRISTY	8/8/18 18:00		TS	14.5	-129.4	40	1002	Punta Eugenia		Mexico	1302	2095	SW
+KRISTY	8/9/18 0:00		TS	14.9	-129.8	45	1000	Punta Eugenia		Mexico	1300	2093	SW
+KRISTY	8/9/18 6:00		TS	15.4	-130.1	50	997	Punta Eugenia		Mexico	1290	2077	SW
+KRISTY	8/9/18 12:00		TS	15.9	-130.1	55	994	Punta Eugenia		Mexico	1267	2038	SW
+KRISTY	8/9/18 18:00		TS	16.5	-130.1	55	994	Punta Eugenia		Mexico	1239	1994	SW
+KRISTY	8/10/18 0:00		TS	17.1	-130	55	994	Punta Eugenia		Mexico	1207	1942	SW
+KRISTY	8/10/18 6:00		TS	17.8	-129.9	60	991	Punta Eugenia		Mexico	1171	1885	WSW
+KRISTY	8/10/18 12:00		TS	18.6	-129.8	60	991	Punta Eugenia		Mexico	1132	1822	WSW
+KRISTY	8/10/18 18:00		TS	19.4	-129.9	60	991	Punta Eugenia		Mexico	1105	1779	WSW
+KRISTY	8/11/18 0:00		TS	20.2	-130	50	996	Punta Eugenia		Mexico	1080	1739	WSW
+KRISTY	8/11/18 6:00		TS	20.9	-130.4	40	1000	Punta Eugenia		Mexico	1078	1735	WSW
+KRISTY	8/11/18 12:00		TS	21.3	-130.8	35	1003	Punta Eugenia		Mexico	1088	1751	WSW
+KRISTY	8/11/18 18:00		TD	21.7	-131.2	30	1006	Point Conception	California	United States	1095	1762	SW
+KRISTY	8/12/18 0:00		TD	22	-131.6	30	1008	Point Conception	California	United States	1093	1758	SW
+KRISTY	8/12/18 6:00		TD	22.3	-132	25	1009	Point Conception	California	United States	1091	1756	SW
+KRISTY	8/12/18 12:00		LO	22.4	-132.4	25	1009	Point Conception	California	United States	1102	1773	SW
+KRISTY	8/12/18 18:00		LO	22.4	-132.9	25	1009	Point Conception	California	United States	1122	1805	SW
+KRISTY	8/13/18 0:00		LO	22.4	-133.4	25	1009	Point Conception	California	United States	1142	1839	SW
+LANE	8/13/18 12:00		LO	10.9	-114.7	20	1009	Playa Perula		Mexico	873	1404	SW
+LANE	8/13/18 18:00		LO	11	-115.7	20	1009	Cabo San Lucas		Mexico	900	1448	SSW
+LANE	8/14/18 0:00		LO	11.1	-116.6	25	1009	Cabo San Lucas		Mexico	920	1481	SSW
+LANE	8/14/18 6:00		LO	11.1	-117.4	25	1009	Cabo San Lucas		Mexico	947	1524	SSW
+LANE	8/14/18 12:00		LO	11.1	-118.4	25	1009	Cabo San Lucas		Mexico	983	1582	SW
+LANE	8/14/18 18:00		LO	11.1	-119.4	25	1009	Cabo San Lucas		Mexico	1022	1645	SW
+LANE	8/15/18 0:00		TD	11	-120.6	30	1008	Cabo San Lucas		Mexico	1078	1734	SW
+LANE	8/15/18 6:00		TD	10.8	-121.7	30	1007	Cabo San Lucas		Mexico	1137	1829	SW
+LANE	8/15/18 12:00		TS	10.7	-122.8	35	1006	Cabo San Lazaro		Mexico	1189	1913	SW
+LANE	8/15/18 18:00		TS	10.5	-123.9	40	1005	Cabo San Lazaro		Mexico	1243	2001	SW
+LANE	8/16/18 0:00		TS	10.4	-124.9	45	1003	Cabo San Lazaro		Mexico	1290	2076	SW
+LANE	8/16/18 6:00		TS	10.4	-125.9	45	1003	Cabo San Lazaro		Mexico	1333	2146	SW
+LANE	8/16/18 12:00		TS	10.4	-126.9	50	1001	Cabo San Lazaro		Mexico	1378	2218	SW
+LANE	8/16/18 18:00		TS	10.5	-127.9	55	999	Cabo San Lazaro		Mexico	1420	2285	SW
+LANE	8/17/18 0:00		HU	11	-129.2	65	992	Cabo San Lazaro		Mexico	1459	2349	SW
+LANE	8/17/18 6:00		HU	11.2	-130.7	70	990	Cabo San Lazaro		Mexico	1527	2457	SW
+LANE	8/17/18 12:00		HU	11.2	-132.1	85	982	Punta Eugenia		Mexico	1592	2562	SW
+LANE	8/17/18 18:00		HU	11.3	-133.6	90	977	Hawaii	Hawaii	United States	1567	2522	ESE
+LANE	8/18/18 0:00		HU	11.6	-134.9	100	969	Hawaii	Hawaii	United States	1478	2379	ESE
+LANE	8/18/18 6:00		HU	11.9	-136.2	115	956	Hawaii	Hawaii	United States	1390	2236	ESE
+LANE	8/18/18 12:00		HU	12.1	-137.5	120	950	Hawaii	Hawaii	United States	1304	2099	ESE
+LANE	8/18/18 18:00		HU	12.4	-138.9	120	950	Hawaii	Hawaii	United States	1210	1948	ESE
+LANE	8/19/18 0:00		HU	12.6	-140.3	115	952	Hawaii	Hawaii	United States	1120	1802	ESE
+LANE	8/19/18 6:00		HU	12.8	-141.6	110	956	Hawaii	Hawaii	United States	1036	1667	ESE
+LANE	8/19/18 12:00		HU	13.1	-142.9	105	961	Hawaii	Hawaii	United States	949	1528	ESE
+LANE	8/19/18 18:00		HU	13.4	-144.1	110	956	Hawaii	Hawaii	United States	869	1399	ESE
+LANE	8/20/18 0:00		HU	13.6	-145.3	105	960	Hawaii	Hawaii	United States	794	1277	ESE
+LANE	8/20/18 6:00		HU	13.7	-146.5	110	961	Hawaii	Hawaii	United States	723	1164	ESE
+LANE	8/20/18 12:00		HU	13.7	-147.7	110	961	Hawaii	Hawaii	United States	659	1061	SE
+LANE	8/20/18 18:00		HU	13.5	-148.6	115	964	Hawaii	Hawaii	United States	623	1002	SE
+LANE	8/21/18 0:00		HU	13.8	-149.8	115	964	Hawaii	Hawaii	United States	552	888	SE
+LANE	8/21/18 6:00		HU	13.9	-150.8	130	950	Hawaii	Hawaii	United States	503	810	SE
+LANE	8/21/18 12:00		HU	14	-151.8	130	950	Hawaii	Hawaii	United States	459	739	SSE
+LANE	8/21/18 18:00		HU	14.2	-152.7	135	941	Hawaii	Hawaii	United States	418	673	SSE
+LANE	8/22/18 0:00		HU	14.4	-153.6	140	929	Hawaii	Hawaii	United States	382	615	SSE
+LANE	8/22/18 6:00		HU	14.5	-154.2	140	926	Hawaii	Hawaii	United States	364	586	SSE
+LANE	8/22/18 12:00		HU	14.9	-155	135	935	Hawaii	Hawaii	United States	328	528	S
+LANE	8/22/18 18:00		HU	15.2	-155.6	135	935	Hawaii	Hawaii	United States	306	493	S
+LANE	8/23/18 0:00		HU	15.6	-156.3	125	939	Hawaii	Hawaii	United States	283	456	S
+LANE	8/23/18 6:00		HU	16	-156.7	125	939	Hawaii	Hawaii	United States	263	424	SSW
+LANE	8/23/18 12:00		HU	16.6	-157.2	115	949	Hawaii	Hawaii	United States	238	383	SSW
+LANE	8/23/18 18:00		HU	17	-157.5	115	949	Hawaii	Hawaii	United States	225	362	SW
+LANE	8/24/18 0:00		HU	17.5	-157.8	105	956	Hawaii	Hawaii	United States	211	340	SW
+LANE	8/24/18 6:00		HU	18	-157.9	105	956	Hawaii	Hawaii	United States	194	312	SW
+LANE	8/24/18 12:00		HU	18.4	-158	100	959	Hawaii	Hawaii	United States	185	297	WSW
+LANE	8/24/18 18:00		HU	18.8	-158	85	966	Hawaii	Hawaii	United States	173	279	WSW
+LANE	8/25/18 0:00		TS	19.1	-158.1	60	985	Oahu	Hawaii	United States	162	261	S
+LANE	8/25/18 6:00		TS	19.3	-158.2	55	992	Oahu	Hawaii	United States	149	240	S
+LANE	8/25/18 12:00		TS	19.5	-158.5	45	997	Oahu	Hawaii	United States	139	223	SSW
+LANE	8/25/18 18:00		TS	19.6	-159.1	45	998	Oahu	Hawaii	United States	146	236	SSW
+LANE	8/26/18 0:00		TS	19.5	-159.9	40	1000	Kauai	Hawaii	United States	178	286	S
+LANE	8/26/18 6:00		TS	19.4	-160.7	35	1004	Kauai	Hawaii	United States	199	320	SSW
+LANE	8/26/18 12:00		TD	19.3	-161.6	30	1006	Kauai	Hawaii	United States	233	375	SW
+LANE	8/26/18 18:00		TD	19.1	-162.4	30	1006	Nihoa to French Frigate Shoals	Hawaii	United States	274	441	S
+LANE	8/27/18 0:00		TD	18.9	-163.3	30	1006	Nihoa to French Frigate Shoals	Hawaii	United States	300	482	SSW
+LANE	8/27/18 6:00		TD	18.9	-164.3	30	1006	Nihoa to French Frigate Shoals	Hawaii	United States	325	523	SSW
+LANE	8/27/18 12:00		TS	18.9	-165	35	1004	Johnston Atoll	Hawaii	United States	331	533	ENE
+LANE	8/27/18 18:00		TS	18.5	-166	35	1007	Johnston Atoll	Hawaii	United States	260	419	ENE
+LANE	8/28/18 0:00		TD	18.4	-166.4	30	1007	Johnston Atoll	Hawaii	United States	234	376	ENE
+LANE	8/28/18 6:00		TD	18.4	-167.1	30	1007	Johnston Atoll	Hawaii	United States	195	313	NE
+LANE	8/28/18 12:00		TD	18.6	-168.1	30	1007	Johnston Atoll	Hawaii	United States	157	253	NE
+LANE	8/28/18 18:00		TD	18.6	-168.1	30	1007	Johnston Atoll	Hawaii	United States	157	253	NE
+LANE	8/29/18 0:00		LO	19.1	-168.3	25	1007	Johnston Atoll	Hawaii	United States	180	290	NNE
+LANE	8/29/18 6:00		LO	19.5	-168.3	20	1007	Johnston Atoll	Hawaii	United States	205	330	NNE
+MIRIAM	8/25/18 12:00		LO	12.8	-120.8	25	1009	Cabo San Lazaro		Mexico	993	1599	SW
+MIRIAM	8/25/18 18:00		LO	12.9	-121.7	25	1009	Cabo San Lazaro		Mexico	1022	1645	SW
+MIRIAM	8/26/18 0:00		LO	13	-122.6	30	1009	Cabo San Lazaro		Mexico	1053	1695	SW
+MIRIAM	8/26/18 6:00		TD	13.2	-123.7	30	1008	Cabo San Lazaro		Mexico	1090	1755	SW
+MIRIAM	8/26/18 12:00		TS	13.5	-124.9	35	1005	Cabo San Lazaro		Mexico	1131	1820	SW
+MIRIAM	8/26/18 18:00		TS	13.7	-126.1	40	1004	Cabo San Lazaro		Mexico	1180	1898	SW
+MIRIAM	8/27/18 0:00		TS	13.8	-127.3	45	1002	Cabo San Lazaro		Mexico	1236	1989	SW
+MIRIAM	8/27/18 6:00		TS	13.9	-128.6	50	1000	Punta Eugenia		Mexico	1297	2088	SW
+MIRIAM	8/27/18 12:00		TS	13.9	-129.9	55	999	Punta Eugenia		Mexico	1355	2181	SW
+MIRIAM	8/27/18 18:00		TS	14	-131.1	55	999	Punta Eugenia		Mexico	1406	2262	SW
+MIRIAM	8/28/18 0:00		TS	14	-132.3	55	999	Punta Eugenia		Mexico	1463	2355	SW
+MIRIAM	8/28/18 6:00		TS	14.1	-133.5	55	999	Hawaii	Hawaii	United States	1504	2421	ESE
+MIRIAM	8/28/18 12:00		TS	14.1	-134.7	55	999	Hawaii	Hawaii	United States	1428	2298	ESE
+MIRIAM	8/28/18 18:00		TS	14.1	-135.8	50	1000	Hawaii	Hawaii	United States	1358	2185	ESE
+MIRIAM	8/29/18 0:00		TS	14.1	-136.9	50	1000	Hawaii	Hawaii	United States	1288	2073	ESE
+MIRIAM	8/29/18 6:00		TS	14	-137.9	55	999	Hawaii	Hawaii	United States	1228	1976	ESE
+MIRIAM	8/29/18 12:00		TS	14	-138.7	60	996	Hawaii	Hawaii	United States	1178	1895	ESE
+MIRIAM	8/29/18 18:00		HU	14	-139.4	65	992	Hawaii	Hawaii	United States	1134	1825	ESE
+MIRIAM	8/30/18 0:00		HU	14.1	-140.1	65	988	Hawaii	Hawaii	United States	1088	1751	ESE
+MIRIAM	8/30/18 6:00		HU	14.4	-140.8	70	985	Hawaii	Hawaii	United States	1037	1668	ESE
+MIRIAM	8/30/18 12:00		HU	14.9	-141.3	70	985	Hawaii	Hawaii	United States	993	1598	ESE
+MIRIAM	8/30/18 18:00		HU	15.5	-141.5	75	982	Hawaii	Hawaii	United States	966	1555	ESE
+MIRIAM	8/31/18 0:00		HU	16.1	-141.5	75	981	Hawaii	Hawaii	United States	953	1534	ESE
+MIRIAM	8/31/18 6:00		HU	16.9	-141.5	80	978	Hawaii	Hawaii	United States	939	1511	E
+MIRIAM	8/31/18 12:00		HU	17.8	-141.3	80	978	Hawaii	Hawaii	United States	939	1511	E
+MIRIAM	8/31/18 18:00		HU	18.7	-141.2	85	974	Hawaii	Hawaii	United States	937	1507	E
+MIRIAM	9/1/18 0:00		HU	19.7	-140.9	85	974	Hawaii	Hawaii	United States	951	1530	E
+MIRIAM	9/1/18 6:00		HU	20.7	-141	75	980	Hawaii	Hawaii	United States	944	1520	E
+MIRIAM	9/1/18 12:00		HU	21.8	-141.1	65	986	Hawaii	Hawaii	United States	943	1518	ENE
+MIRIAM	9/1/18 18:00		TS	22.8	-141.3	50	997	Hawaii	Hawaii	United States	941	1514	ENE
+MIRIAM	9/2/18 0:00		TS	23.8	-142	40	1004	Hawaii	Hawaii	United States	913	1470	ENE
+MIRIAM	9/2/18 6:00		TS	24.7	-142.8	35	1005	Hawaii	Hawaii	United States	884	1423	ENE
+MIRIAM	9/2/18 12:00		TD	25.4	-143.7	30	1006	Hawaii	Hawaii	United States	851	1370	ENE
+MIRIAM	9/2/18 18:00		LO	26	-144.3	30	1008	Hawaii	Hawaii	United States	837	1347	ENE
+MIRIAM	9/3/18 0:00		LO	26.8	-145.3	30	1009	Maui	Hawaii	United States	812	1307	ENE
+NORMAN	8/27/18 18:00		LO	14.6	-109.4	25	1008	Playa Perula		Mexico	443	713	SW
+NORMAN	8/28/18 0:00		LO	15.3	-110.3	25	1007	Playa Perula		Mexico	450	724	SW
+NORMAN	8/28/18 6:00		LO	16	-111	25	1006	Playa Perula		Mexico	457	736	WSW
+NORMAN	8/28/18 12:00		TD	16.7	-111.7	30	1006	Cabo San Lucas		Mexico	438	705	SSW
+NORMAN	8/28/18 18:00		TS	17.2	-112.5	35	1004	Cabo San Lucas		Mexico	423	681	SSW
+NORMAN	8/29/18 0:00		TS	17.4	-113.4	45	1000	Cabo San Lucas		Mexico	437	704	SSW
+NORMAN	8/29/18 6:00		TS	17.5	-114.3	50	999	Cabo San Lucas		Mexico	465	748	SW
+NORMAN	8/29/18 12:00		TS	17.6	-115.1	55	995	Cabo San Lucas		Mexico	493	794	SW
+NORMAN	8/29/18 18:00		HU	17.7	-115.7	65	988	Cabo San Lucas		Mexico	516	830	SW
+NORMAN	8/30/18 0:00		HU	17.7	-116.3	75	982	Cabo San Lucas		Mexico	545	877	SW
+NORMAN	8/30/18 6:00		HU	17.7	-117	95	968	Cabo San Lazaro		Mexico	573	922	SSW
+NORMAN	8/30/18 12:00		HU	17.7	-117.7	125	941	Cabo San Lazaro		Mexico	598	963	SW
+NORMAN	8/30/18 18:00		HU	17.6	-118.4	130	937	Cabo San Lazaro		Mexico	631	1016	SW
+NORMAN	8/31/18 0:00		HU	17.4	-119.2	130	937	Cabo San Lazaro		Mexico	675	1087	SW
+NORMAN	8/31/18 6:00		HU	17.1	-119.9	125	940	Cabo San Lazaro		Mexico	721	1161	SW
+NORMAN	8/31/18 12:00		HU	16.8	-120.5	115	949	Cabo San Lazaro		Mexico	763	1228	SW
+NORMAN	8/31/18 18:00		HU	16.6	-121.1	110	953	Cabo San Lazaro		Mexico	801	1289	SW
+NORMAN	9/1/18 0:00		HU	16.4	-121.8	100	961	Cabo San Lazaro		Mexico	843	1357	SW
+NORMAN	9/1/18 6:00		HU	16.3	-122.5	90	970	Cabo San Lazaro		Mexico	881	1419	SW
+NORMAN	9/1/18 12:00		HU	16.2	-123.3	90	970	Cabo San Lazaro		Mexico	926	1490	SW
+NORMAN	9/1/18 18:00		HU	16.2	-124.3	90	970	Cabo San Lazaro		Mexico	976	1571	SW
+NORMAN	9/2/18 0:00		HU	16.5	-125.5	90	970	Cabo San Lazaro		Mexico	1027	1653	WSW
+NORMAN	9/2/18 6:00		HU	16.9	-126.7	95	966	Punta Eugenia		Mexico	1059	1704	SW
+NORMAN	9/2/18 12:00		HU	17.4	-128.3	115	950	Punta Eugenia		Mexico	1109	1785	SW
+NORMAN	9/2/18 18:00		HU	17.9	-130	120	947	Punta Eugenia		Mexico	1172	1886	WSW
+NORMAN	9/3/18 0:00		HU	18.4	-131.8	115	950	Punta Eugenia		Mexico	1247	2006	WSW
+NORMAN	9/3/18 6:00		HU	18.8	-133.8	110	954	Punta Eugenia		Mexico	1342	2160	WSW
+NORMAN	9/3/18 12:00		HU	19.1	-135.7	100	963	Hawaii	Hawaii	United States	1292	2080	E
+NORMAN	9/3/18 18:00		HU	19.4	-137.6	90	970	Hawaii	Hawaii	United States	1167	1878	E
+NORMAN	9/4/18 0:00		HU	19.7	-139.4	80	978	Hawaii	Hawaii	United States	1049	1688	E
+NORMAN	9/4/18 6:00		HU	19.9	-141	75	982	Hawaii	Hawaii	United States	944	1519	E
+NORMAN	9/4/18 12:00		HU	19.9	-142.6	75	982	Hawaii	Hawaii	United States	840	1352	E
+NORMAN	9/4/18 18:00		HU	19.8	-143.9	70	984	Hawaii	Hawaii	United States	756	1216	E
+NORMAN	9/5/18 0:00		HU	19.8	-145.1	70	984	Hawaii	Hawaii	United States	677	1090	E
+NORMAN	9/5/18 6:00		HU	19.6	-146.1	80	978	Hawaii	Hawaii	United States	613	986	E
+NORMAN	9/5/18 12:00		HU	19.5	-147.2	100	962	Hawaii	Hawaii	United States	541	871	E
+NORMAN	9/5/18 18:00		HU	19.6	-148	105	960	Hawaii	Hawaii	United States	489	787	E
+NORMAN	9/6/18 0:00		HU	19.8	-148.8	105	960	Hawaii	Hawaii	United States	437	702	E
+NORMAN	9/6/18 6:00		HU	20.1	-149.5	105	958	Hawaii	Hawaii	United States	392	630	E
+NORMAN	9/6/18 12:00		HU	20.5	-150.2	100	960	Hawaii	Hawaii	United States	349	562	E
+NORMAN	9/6/18 18:00		HU	21	-150.6	95	963	Hawaii	Hawaii	United States	331	533	ENE
+NORMAN	9/7/18 0:00		HU	21.6	-151.1	85	970	Hawaii	Hawaii	United States	315	507	ENE
+NORMAN	9/7/18 6:00		HU	22.1	-151.6	75	976	Hawaii	Hawaii	United States	303	488	NE
+NORMAN	9/7/18 12:00		HU	22.8	-152.1	65	983	Maui	Hawaii	United States	306	492	ENE
+NORMAN	9/7/18 18:00		TS	23.7	-152.6	60	989	Maui	Hawaii	United States	312	502	NE
+NORMAN	9/8/18 0:00		TS	24.6	-153.1	60	991	Maui	Hawaii	United States	334	537	NE
+NORMAN	9/8/18 6:00		TS	25.1	-153.5	55	995	Maui	Hawaii	United States	347	559	NNE
+NORMAN	9/8/18 12:00		TS	25.7	-154.1	50	998	Maui	Hawaii	United States	366	589	NNE
+NORMAN	9/8/18 18:00		TS	26.4	-154.4	45	1000	Maui	Hawaii	United States	405	651	NNE
+NORMAN	9/9/18 0:00		EX	27.1	-154.1	45	1000	Maui	Hawaii	United States	456	734	NNE
+NORMAN	9/9/18 6:00		EX	27.9	-153.9	45	1000	Maui	Hawaii	United States	512	825	NNE
+NORMAN	9/9/18 12:00		EX	28.6	-153.9	45	1000	Oahu	Hawaii	United States	555	892	NNE
+NORMAN	9/9/18 18:00		EX	29.6	-153.5	40	1002	Oahu	Hawaii	United States	627	1009	NNE
+NORMAN	9/10/18 0:00		EX	30.8	-153.2	40	1002	Oahu	Hawaii	United States	709	1140	NNE
+NORMAN	9/10/18 6:00		EX	31.9	-152.4	40	1002	Oahu	Hawaii	United States	797	1283	NNE
+OLIVIA	9/1/18 0:00		TD	14.3	-107.8	30	1007	Punta San Telmo		Mexico	399	643	SW
+OLIVIA	9/1/18 6:00		TD	14.5	-108.7	30	1007	Playa Perula		Mexico	421	677	SW
+OLIVIA	9/1/18 12:00		TD	14.7	-109.6	30	1007	Playa Perula		Mexico	446	718	SW
+OLIVIA	9/1/18 18:00		TD	15	-110.5	30	1006	Playa Perula		Mexico	473	762	SW
+OLIVIA	9/2/18 0:00		TS	15.4	-111.2	35	1004	Playa Perula		Mexico	492	792	SW
+OLIVIA	9/2/18 6:00		TS	15.9	-111.7	40	1002	Cabo San Lucas		Mexico	491	791	SSW
+OLIVIA	9/2/18 12:00		TS	16.5	-112.1	40	1002	Cabo San Lucas		Mexico	459	738	SSW
+OLIVIA	9/2/18 18:00		TS	16.8	-112.8	40	1002	Cabo San Lucas		Mexico	456	734	SSW
+OLIVIA	9/3/18 0:00		TS	16.9	-113.4	40	1001	Cabo San Lucas		Mexico	467	752	SSW
+OLIVIA	9/3/18 6:00		TS	16.8	-114	45	999	Cabo San Lucas		Mexico	493	794	SSW
+OLIVIA	9/3/18 12:00		TS	16.7	-114.4	50	996	Cabo San Lucas		Mexico	514	827	SW
+OLIVIA	9/3/18 18:00		TS	16.7	-114.9	60	991	Cabo San Lucas		Mexico	533	857	SW
+OLIVIA	9/4/18 0:00		HU	16.8	-115.6	65	987	Cabo San Lucas		Mexico	556	896	SW
+OLIVIA	9/4/18 6:00		HU	16.9	-116.6	75	985	Cabo San Lucas		Mexico	597	961	SW
+OLIVIA	9/4/18 12:00		HU	16.9	-117.6	90	971	Cabo San Lazaro		Mexico	641	1031	SSW
+OLIVIA	9/4/18 18:00		HU	16.8	-118.6	100	963	Cabo San Lazaro		Mexico	683	1100	SW
+OLIVIA	9/5/18 0:00		HU	16.8	-119.6	110	954	Cabo San Lazaro		Mexico	724	1165	SW
+OLIVIA	9/5/18 6:00		HU	16.8	-120.7	100	963	Cabo San Lazaro		Mexico	772	1243	SW
+OLIVIA	9/5/18 12:00		HU	17	-121.8	95	966	Cabo San Lazaro		Mexico	815	1311	SW
+OLIVIA	9/5/18 18:00		HU	17.2	-123	85	975	Cabo San Lazaro		Mexico	866	1394	SW
+OLIVIA	9/6/18 0:00		HU	17.5	-124.1	85	976	Cabo San Lazaro		Mexico	912	1468	WSW
+OLIVIA	9/6/18 6:00		HU	17.8	-125.3	90	975	Punta Eugenia		Mexico	951	1530	SW
+OLIVIA	9/6/18 12:00		HU	18.1	-126.6	100	959	Punta Eugenia		Mexico	995	1601	SW
+OLIVIA	9/6/18 18:00		HU	18.5	-127.9	110	954	Punta Eugenia		Mexico	1039	1672	SW
+OLIVIA	9/7/18 0:00		HU	18.9	-129.2	115	951	Punta Eugenia		Mexico	1088	1751	WSW
+OLIVIA	9/7/18 6:00		HU	19.4	-130.5	105	955	Punta Eugenia		Mexico	1138	1831	WSW
+OLIVIA	9/7/18 12:00		HU	19.9	-131.8	95	965	Punta Eugenia		Mexico	1191	1917	WSW
+OLIVIA	9/7/18 18:00		HU	20.3	-133.2	90	970	Point Conception	California	United States	1248	2008	SW
+OLIVIA	9/8/18 0:00		HU	20.7	-134.5	85	975	Point Conception	California	United States	1278	2056	SW
+OLIVIA	9/8/18 6:00		HU	21.1	-135.9	80	980	Hawaii	Hawaii	United States	1275	2051	E
+OLIVIA	9/8/18 12:00		HU	21.4	-137.3	75	983	Hawaii	Hawaii	United States	1185	1907	E
+OLIVIA	9/8/18 18:00		HU	21.6	-138.7	75	983	Hawaii	Hawaii	United States	1096	1763	E
+OLIVIA	9/9/18 0:00		HU	21.8	-140.2	75	982	Hawaii	Hawaii	United States	1001	1611	E
+OLIVIA	9/9/18 6:00		HU	21.8	-141.7	70	985	Hawaii	Hawaii	United States	905	1456	ENE
+OLIVIA	9/9/18 12:00		HU	21.7	-143.1	65	989	Hawaii	Hawaii	United States	815	1311	ENE
+OLIVIA	9/9/18 18:00		HU	21.7	-144.5	65	988	Hawaii	Hawaii	United States	726	1168	ENE
+OLIVIA	9/10/18 0:00		HU	21.7	-145.6	75	982	Hawaii	Hawaii	United States	656	1056	ENE
+OLIVIA	9/10/18 6:00		HU	21.7	-146.5	75	980	Hawaii	Hawaii	United States	599	965	ENE
+OLIVIA	9/10/18 12:00		HU	21.7	-147.4	75	980	Hawaii	Hawaii	United States	543	874	ENE
+OLIVIA	9/10/18 18:00		HU	21.8	-148.2	70	985	Hawaii	Hawaii	United States	495	797	ENE
+OLIVIA	9/11/18 0:00		HU	21.8	-149.1	65	989	Hawaii	Hawaii	United States	440	708	ENE
+OLIVIA	9/11/18 6:00		TS	21.9	-149.8	60	993	Hawaii	Hawaii	United States	400	644	ENE
+OLIVIA	9/11/18 12:00		TS	21.9	-150.7	55	997	Hawaii	Hawaii	United States	347	558	ENE
+OLIVIA	9/11/18 18:00		TS	21.8	-152	50	1000	Hawaii	Hawaii	United States	271	435	NE
+OLIVIA	9/12/18 0:00		TS	21.1	-153.8	45	1003	Hawaii	Hawaii	United States	149	239	NE
+OLIVIA	9/12/18 6:00		TS	21	-154.4	40	1005	Hawaii	Hawaii	United States	117	189	NE
+OLIVIA	9/12/18 12:00		TS	21	-155.1	40	1005	Maui	Hawaii	United States	82	132	E
+OLIVIA	9/12/18 18:00		TS	21.1	-156.3	40	1005	Maui	Hawaii	United States	21	34	N
+OLIVIA	9/13/18 0:00		TS	20.5	-158.1	35	1007	Oahu	Hawaii	United States	66	107	S
+OLIVIA	9/13/18 6:00		TD	20.1	-159.8	30	1008	Kauai	Hawaii	United States	136	219	S
+OLIVIA	9/13/18 12:00		TD	19.7	-161.6	30	1008	Kauai	Hawaii	United States	211	340	SW
+OLIVIA	9/13/18 18:00		TS	19	-162.5	35	1007	Nihoa to French Frigate Shoals	Hawaii	United States	282	454	S
+OLIVIA	9/14/18 0:00		TS	19	-163.6	35	1007	Nihoa to French Frigate Shoals	Hawaii	United States	300	482	SSW
+OLIVIA	9/14/18 6:00		LO	18.9	-164.9	35	1007	Johnston Atoll	Hawaii	United States	337	543	ENE
+OLIVIA	9/14/18 12:00		LO	18.8	-165.9	35	1007	Johnston Atoll	Hawaii	United States	276	444	ENE
+PAUL	9/7/18 12:00		LO	14.7	-111.9	25	1008	Playa Perula		Mexico	558	899	SW
+PAUL	9/7/18 18:00		LO	15	-112.7	25	1008	Cabo San Lucas		Mexico	569	916	SSW
+PAUL	9/8/18 0:00		LO	15.3	-113.6	25	1008	Cabo San Lucas		Mexico	572	920	SSW
+PAUL	9/8/18 6:00		TD	15.5	-114.5	30	1006	Cabo San Lucas		Mexico	587	945	SSW
+PAUL	9/8/18 12:00		TD	15.7	-115.4	30	1006	Cabo San Lucas		Mexico	608	978	SW
+PAUL	9/8/18 18:00		TD	15.8	-116.3	30	1006	Cabo San Lucas		Mexico	639	1028	SW
+PAUL	9/9/18 0:00		TS	16	-117	35	1004	Cabo San Lucas		Mexico	660	1062	SW
+PAUL	9/9/18 6:00		TS	16.6	-117.6	35	1004	Cabo San Lazaro		Mexico	658	1060	SSW
+PAUL	9/9/18 12:00		TS	17.3	-118.1	35	1004	Cabo San Lazaro		Mexico	636	1024	SW
+PAUL	9/9/18 18:00		TS	18.1	-118.6	40	1002	Cabo San Lazaro		Mexico	613	987	SW
+PAUL	9/10/18 0:00		TS	18.9	-119.1	40	1003	Cabo San Lazaro		Mexico	596	959	SW
+PAUL	9/10/18 6:00		TS	19.7	-119.7	35	1004	Cabo San Lazaro		Mexico	590	949	SW
+PAUL	9/10/18 12:00		TS	20.4	-120.3	35	1004	Cabo San Lazaro		Mexico	594	957	WSW
+PAUL	9/10/18 18:00		TS	20.9	-120.9	35	1004	Punta Eugenia		Mexico	604	972	SW
+PAUL	9/11/18 0:00		TS	21.4	-121.7	35	1004	Punta Eugenia		Mexico	610	981	SW
+PAUL	9/11/18 6:00		TD	21.8	-122.6	30	1005	Punta Eugenia		Mexico	631	1015	SW
+PAUL	9/11/18 12:00		TD	22	-123.6	30	1005	Punta Eugenia		Mexico	671	1079	SW
+PAUL	9/11/18 18:00		TD	22.2	-124.7	30	1005	Punta Eugenia		Mexico	719	1157	WSW
+PAUL	9/12/18 0:00		LO	22.3	-126	30	1005	Punta Eugenia		Mexico	785	1263	WSW
+PAUL	9/12/18 6:00		LO	22.4	-127	30	1005	Punta Eugenia		Mexico	837	1347	WSW
+PAUL	9/12/18 12:00		LO	22.5	-128	25	1006	Punta Eugenia		Mexico	890	1432	WSW
+PAUL	9/12/18 18:00		LO	22.5	-128.9	25	1006	Punta Eugenia		Mexico	942	1515	WSW
+PAUL	9/13/18 0:00		LO	22.5	-129.8	25	1006	Punta Eugenia		Mexico	994	1599	WSW
+PAUL	9/13/18 6:00		LO	22.5	-130.6	25	1006	Point Conception	California	United States	1028	1654	SW
+PAUL	9/13/18 12:00		LO	22.5	-131.4	25	1006	Point Conception	California	United States	1057	1702	SW
+PAUL	9/13/18 18:00		LO	22.4	-132.1	25	1006	Point Conception	California	United States	1090	1754	SW
+PAUL	9/14/18 0:00		LO	22	-132.6	20	1007	Point Conception	California	United States	1131	1821	SW
+PAUL	9/14/18 6:00		LO	21.6	-132.9	20	1007	Point Conception	California	United States	1165	1875	SW
+PAUL	9/14/18 12:00		LO	21.2	-133.1	20	1007	Point Conception	California	United States	1194	1922	SW
+PAUL	9/14/18 18:00		LO	20.8	-133.3	20	1007	Point Conception	California	United States	1224	1970	SW
+NINETEEN	9/19/18 12:00		TD	26.1	-111.3	25	1004	Loreto		Mexico	6	10	NNE
+NINETEEN	9/19/18 18:00		TD	26.7	-111.2	30	1003	Loreto		Mexico	48	77	N
+NINETEEN	9/20/18 0:00		TD	27.3	-110.9	30	1002	Guaymas		Mexico	41	67	S
+NINETEEN	9/20/18 3:00	L	TD	27.6	-110.6	30	1002	Guaymas		Mexico	27	43	SE
+NINETEEN	9/20/18 6:00		TD	27.9	-110.2	25	1003	Guaymas		Mexico	42	67	E
+ROSA	9/25/18 6:00		TD	14.4	-106.9	30	1006	Punta San Telmo		Mexico	353	568	SW
+ROSA	9/25/18 12:00		TS	14.6	-107.7	40	1004	Manzanillo		Mexico	379	609	SW
+ROSA	9/25/18 18:00		TS	14.8	-108.5	45	1000	Playa Perula		Mexico	396	637	SW
+ROSA	9/26/18 0:00		TS	15	-109.3	50	997	Playa Perula		Mexico	417	672	SW
+ROSA	9/26/18 6:00		TS	15.4	-110	55	994	Playa Perula		Mexico	430	692	SW
+ROSA	9/26/18 12:00		HU	16	-110.8	65	990	Playa Perula		Mexico	446	718	WSW
+ROSA	9/26/18 18:00		HU	16.4	-111.7	75	982	Cabo San Lucas		Mexico	458	737	SSW
+ROSA	9/27/18 0:00		HU	16.8	-112.6	75	982	Cabo San Lucas		Mexico	451	726	SSW
+ROSA	9/27/18 6:00		HU	17	-113.6	75	979	Cabo San Lucas		Mexico	468	753	SSW
+ROSA	9/27/18 12:00		HU	17	-114.6	90	971	Cabo San Lucas		Mexico	504	812	SW
+ROSA	9/27/18 18:00		HU	17	-115.5	105	957	Cabo San Lucas		Mexico	542	872	SW
+ROSA	9/28/18 0:00		HU	16.9	-116.4	125	940	Cabo San Lucas		Mexico	587	945	SW
+ROSA	9/28/18 6:00		HU	16.9	-117.1	130	936	Cabo San Lucas		Mexico	621	999	SW
+ROSA	9/28/18 12:00		HU	17	-117.5	120	942	Cabo San Lazaro		Mexico	632	1016	SSW
+ROSA	9/28/18 18:00		HU	17.4	-117.8	105	955	Cabo San Lazaro		Mexico	619	996	SW
+ROSA	9/29/18 0:00		HU	17.9	-118	95	964	Cabo San Lazaro		Mexico	599	964	SW
+ROSA	9/29/18 6:00		HU	18.8	-118.2	85	971	Cabo San Lazaro		Mexico	560	901	SW
+ROSA	9/29/18 12:00		HU	19.7	-118.4	85	971	Cabo San Lazaro		Mexico	525	844	SW
+ROSA	9/29/18 18:00		HU	20.7	-118.7	90	968	Cabo San Lazaro		Mexico	497	799	WSW
+ROSA	9/30/18 0:00		HU	21.8	-118.9	85	969	Cabo San Lazaro		Mexico	468	754	WSW
+ROSA	9/30/18 6:00		HU	22.8	-118.9	80	972	Punta Eugenia		Mexico	423	680	SW
+ROSA	9/30/18 12:00		HU	23.8	-118.8	70	982	Punta Eugenia		Mexico	364	585	SW
+ROSA	9/30/18 18:00		HU	24.7	-118.4	65	982	Punta Eugenia		Mexico	300	483	SW
+ROSA	10/1/18 0:00		TS	25.6	-117.9	55	989	Punta Eugenia		Mexico	235	378	SW
+ROSA	10/1/18 6:00		TS	26.3	-117.3	45	994	Punta Eugenia		Mexico	175	282	SW
+ROSA	10/1/18 12:00		TS	27.1	-116.7	40	1000	Punta Eugenia		Mexico	114	183	WSW
+ROSA	10/1/18 18:00		TS	27.8	-116.3	35	1001	Punta Eugenia		Mexico	77	123	W
+ROSA	10/2/18 0:00		TD	28.3	-115.7	30	1002	Punta Eugenia		Mexico	50	81	NW
+ROSA	10/2/18 6:00		TD	28.9	-115.1	30	1003	San Jose De Las Palomas		Mexico	36	59	W
+ROSA	10/2/18 11:00	L	TD	29.2	-114.6	30	1005	San Jose De Las Palomas		Mexico	20	33	NNW
+ROSA	10/2/18 12:00		TD	29.3	-114.4	30	1005	San Jose De Las Palomas		Mexico	27	43	NNE
+SERGIO	9/29/18 12:00		TS	12	-101.3	35	1005	Acapulco		Mexico	344	554	SSW
+SERGIO	9/29/18 18:00		TS	12	-102.2	35	1005	Acapulco		Mexico	365	588	SSW
+SERGIO	9/30/18 0:00		TS	12	-103.1	40	1003	Tecpan De Galeana		Mexico	393	632	SSW
+SERGIO	9/30/18 6:00		TS	11.9	-103.9	45	1001	Tecpan De Galeana		Mexico	424	682	SSW
+SERGIO	9/30/18 12:00		TS	11.7	-104.8	50	999	Lazaro Cardenas		Mexico	463	745	SSW
+SERGIO	9/30/18 18:00		TS	11.6	-105.8	55	997	Punta San Telmo		Mexico	487	784	SSW
+SERGIO	10/1/18 0:00		TS	11.5	-106.9	55	997	Punta San Telmo		Mexico	522	840	SSW
+SERGIO	10/1/18 6:00		TS	11.4	-108	55	997	Punta San Telmo		Mexico	564	908	SSW
+SERGIO	10/1/18 12:00		TS	11.3	-109.1	60	994	Punta San Telmo		Mexico	612	985	SW
+SERGIO	10/1/18 18:00		TS	11.1	-110.3	60	994	Punta San Telmo		Mexico	675	1086	SW
+SERGIO	10/2/18 0:00		HU	10.9	-111.5	65	991	Playa Perula		Mexico	732	1177	SW
+SERGIO	10/2/18 6:00		HU	10.7	-112.5	75	985	Playa Perula		Mexico	783	1260	SW
+SERGIO	10/2/18 12:00		HU	10.8	-113.5	90	973	Playa Perula		Mexico	821	1322	SW
+SERGIO	10/2/18 18:00		HU	11.1	-114.5	105	960	Playa Perula		Mexico	853	1373	SW
+SERGIO	10/3/18 0:00		HU	11.5	-115.4	105	960	Cabo San Lucas		Mexico	860	1384	SSW
+SERGIO	10/3/18 6:00		HU	12	-116.2	105	959	Cabo San Lucas		Mexico	853	1373	SSW
+SERGIO	10/3/18 12:00		HU	12.5	-116.9	105	959	Cabo San Lucas		Mexico	847	1363	SW
+SERGIO	10/3/18 18:00		HU	12.9	-117.5	110	951	Cabo San Lucas		Mexico	846	1362	SW
+SERGIO	10/4/18 0:00		HU	13.5	-118	115	947	Cabo San Lucas		Mexico	833	1341	SW
+SERGIO	10/4/18 6:00		HU	14.1	-118.5	120	942	Cabo San Lucas		Mexico	824	1325	SW
+SERGIO	10/4/18 12:00		HU	14.7	-119	120	942	Cabo San Lucas		Mexico	817	1315	SW
+SERGIO	10/4/18 18:00		HU	15.3	-119.6	120	942	Cabo San Lazaro		Mexico	806	1297	SW
+SERGIO	10/5/18 0:00		HU	15.7	-120.2	110	951	Cabo San Lazaro		Mexico	808	1300	SW
+SERGIO	10/5/18 6:00		HU	15.9	-120.8	100	958	Cabo San Lazaro		Mexico	823	1324	SW
+SERGIO	10/5/18 12:00		HU	15.9	-121.4	100	958	Cabo San Lazaro		Mexico	849	1367	SW
+SERGIO	10/5/18 18:00		HU	15.7	-122	105	955	Cabo San Lazaro		Mexico	887	1427	SW
+SERGIO	10/6/18 0:00		HU	15.4	-122.5	110	950	Cabo San Lazaro		Mexico	925	1488	SW
+SERGIO	10/6/18 6:00		HU	15	-123.1	110	950	Cabo San Lazaro		Mexico	972	1565	SW
+SERGIO	10/6/18 12:00		HU	14.8	-123.7	110	950	Cabo San Lazaro		Mexico	1011	1626	SW
+SERGIO	10/6/18 18:00		HU	14.7	-124.4	110	951	Cabo San Lazaro		Mexico	1049	1688	SW
+SERGIO	10/7/18 0:00		HU	14.6	-125.1	105	955	Cabo San Lazaro		Mexico	1088	1752	SW
+SERGIO	10/7/18 6:00		HU	14.5	-125.8	100	959	Cabo San Lazaro		Mexico	1128	1816	SW
+SERGIO	10/7/18 12:00		HU	14.5	-126.5	90	966	Cabo San Lazaro		Mexico	1164	1873	SW
+SERGIO	10/7/18 18:00		HU	14.5	-127.2	85	970	Cabo San Lazaro		Mexico	1201	1932	WSW
+SERGIO	10/8/18 0:00		HU	14.7	-127.8	80	974	Punta Eugenia		Mexico	1221	1964	SW
+SERGIO	10/8/18 6:00		HU	14.9	-128.2	75	978	Punta Eugenia		Mexico	1228	1976	SW
+SERGIO	10/8/18 12:00		HU	15.2	-128.5	75	978	Punta Eugenia		Mexico	1226	1973	SW
+SERGIO	10/8/18 18:00		HU	15.5	-128.6	75	978	Punta Eugenia		Mexico	1215	1956	SW
+SERGIO	10/9/18 0:00		HU	15.8	-128.5	70	981	Punta Eugenia		Mexico	1196	1924	SW
+SERGIO	10/9/18 6:00		HU	16.1	-128.2	70	981	Punta Eugenia		Mexico	1167	1878	SW
+SERGIO	10/9/18 12:00		HU	16.4	-127.7	65	985	Punta Eugenia		Mexico	1129	1817	SW
+SERGIO	10/9/18 18:00		TS	16.7	-127	60	988	Punta Eugenia		Mexico	1082	1742	SW
+SERGIO	10/10/18 0:00		TS	17	-126.2	60	989	Punta Eugenia		Mexico	1031	1660	SW
+SERGIO	10/10/18 6:00		TS	17.4	-125.2	55	992	Punta Eugenia		Mexico	967	1557	SW
+SERGIO	10/10/18 12:00		TS	17.9	-124.3	55	992	Punta Eugenia		Mexico	903	1453	SW
+SERGIO	10/10/18 18:00		TS	18.6	-123.3	55	992	Punta Eugenia		Mexico	824	1327	SW
+SERGIO	10/11/18 0:00		TS	19.4	-122.2	55	992	Cabo San Lazaro		Mexico	736	1184	WSW
+SERGIO	10/11/18 6:00		TS	20.4	-120.9	55	992	Cabo San Lazaro		Mexico	628	1010	WSW
+SERGIO	10/11/18 12:00		TS	21.5	-119.5	55	992	Cabo San Lazaro		Mexico	512	824	WSW
+SERGIO	10/11/18 18:00		TS	22.8	-117.9	55	992	Cabo San Lazaro		Mexico	382	614	WSW
+SERGIO	10/12/18 0:00		TS	24.1	-116.3	55	992	Punta Abreojos		Mexico	247	398	SW
+SERGIO	10/12/18 6:00		TS	25.3	-114.7	55	992	Punta Abreojos		Mexico	119	192	SW
+SERGIO	10/12/18 12:00	L	TS	26.6	-113	45	994	Punta Abreojos		Mexico	35	57	E
+SERGIO	10/12/18 18:00		TD	28.1	-111.2	30	998	Guaymas		Mexico	24	38	NW
+TARA	10/14/18 12:00		TD	17	-102.8	30	1006	Lazaro Cardenas		Mexico	76	122	SSW
+TARA	10/14/18 18:00		TD	17.2	-103.4	30	1006	Punta San Telmo		Mexico	76	123	S
+TARA	10/15/18 0:00		TD	17.3	-103.8	30	1005	Punta San Telmo		Mexico	73	118	SSW
+TARA	10/15/18 6:00		TS	17.6	-104.1	35	1003	Punta San Telmo		Mexico	65	104	SW
+TARA	10/15/18 12:00		TS	17.9	-104.2	40	1001	Punta San Telmo		Mexico	57	91	WSW
+TARA	10/15/18 18:00		TS	18.2	-104.2	45	1000	Punta San Telmo		Mexico	50	80	W
+TARA	10/16/18 0:00		TS	18.4	-104.3	55	995	Manzanillo		Mexico	45	72	S
+TARA	10/16/18 6:00		TS	18.5	-104.4	50	998	Manzanillo		Mexico	38	61	S
+TARA	10/16/18 12:00		TS	18.7	-104.6	40	1001	Manzanillo		Mexico	30	48	SW
+TARA	10/16/18 18:00		TS	18.9	-104.9	35	1003	Manzanillo		Mexico	39	62	WSW
+VICENTE	10/19/18 0:00		LO	13	-91.5	25	1007	Sipacate		Guatemala	65	105	SSW
+VICENTE	10/19/18 6:00		TD	13.1	-91.7	25	1007	Sipacate		Guatemala	64	104	SSW
+VICENTE	10/19/18 12:00		TD	13.2	-91.8	30	1006	Sipacate		Guatemala	63	101	SW
+VICENTE	10/19/18 18:00		TS	13.3	-92	35	1005	Sipacate		Guatemala	68	109	SW
+VICENTE	10/20/18 0:00		TS	13.6	-92.4	35	1005	MX/Guatemala Border			64	104	S
+VICENTE	10/20/18 6:00		TS	14	-92.8	35	1005	MX/Guatemala Border			53	85	SW
+VICENTE	10/20/18 12:00		TS	14.3	-93.3	40	1004	Puerto Chiapas		Mexico	65	104	WSW
+VICENTE	10/20/18 18:00		TS	14.5	-94	45	1002	Boca De Pijijiapan		Mexico	87	140	SSW
+VICENTE	10/21/18 0:00		TS	14.7	-94.7	45	1002	Barra De Tonala		Mexico	101	163	SSW
+VICENTE	10/21/18 6:00		TS	14.7	-95.5	45	1002	Bahias De Huatulco		Mexico	84	135	SE
+VICENTE	10/21/18 12:00		TS	14.5	-96.5	45	1002	Puerto Angel		Mexico	80	128	S
+VICENTE	10/21/18 18:00		TS	14.2	-97.4	40	1003	Puerto Escondido		Mexico	116	187	S
+VICENTE	10/22/18 0:00		TS	14.1	-98.4	40	1003	Lagunas De Chacahua		Mexico	138	222	SSW
+VICENTE	10/22/18 6:00		TS	14.1	-99.3	40	1003	Punta Maldonado		Mexico	161	259	SSW
+VICENTE	10/22/18 12:00		TS	14.6	-100.1	40	1003	Acapulco		Mexico	153	246	S
+VICENTE	10/22/18 18:00		TS	15.2	-100.8	35	1005	Acapulco		Mexico	126	204	SSW
+VICENTE	10/23/18 0:00		TS	16	-101.3	35	1006	Tecpan De Galeana		Mexico	93	149	SSW
+VICENTE	10/23/18 6:00		TD	16.8	-101.7	30	1007	Zihuatanejo		Mexico	59	94	S
+VICENTE	10/23/18 12:00		TD	17.8	-102.2	25	1008	Lazaro Cardenas		Mexico	9	14	SSW
+VICENTE	10/23/18 13:30	L	TD	18	-102.4	25	1008	Lazaro Cardenas		Mexico	17	27	WNW
+WILLA	10/19/18 0:00		LO	14.2	-98.9	25	1007	Lagunas De Chacahua		Mexico	148	238	SW
+WILLA	10/19/18 6:00		LO	14.5	-100.4	25	1007	Acapulco		Mexico	163	262	SSW
+WILLA	10/19/18 12:00		LO	14.7	-101.7	25	1007	Tecpan De Galeana		Mexico	185	297	SSW
+WILLA	10/19/18 18:00		LO	14.8	-102.8	25	1007	Zihuatanejo		Mexico	212	342	SSW
+WILLA	10/20/18 0:00		TD	14.8	-103.6	30	1007	Lazaro Cardenas		Mexico	235	378	SSW
+WILLA	10/20/18 6:00		TD	14.7	-104.5	30	1006	Punta San Telmo		Mexico	258	415	SSW
+WILLA	10/20/18 12:00		TS	14.9	-105.1	35	1005	Punta San Telmo		Mexico	259	416	SSW
+WILLA	10/20/18 18:00		TS	15.1	-105.5	45	1001	Punta San Telmo		Mexico	259	417	SSW
+WILLA	10/21/18 0:00		TS	15.5	-105.9	55	996	Punta San Telmo		Mexico	252	406	SW
+WILLA	10/21/18 6:00		HU	16	-106.3	70	987	Punta San Telmo		Mexico	246	397	SW
+WILLA	10/21/18 12:00		HU	16.4	-106.6	85	975	Manzanillo		Mexico	236	379	SW
+WILLA	10/21/18 18:00		HU	16.8	-106.9	100	962	Playa Perula		Mexico	223	359	SSW
+WILLA	10/22/18 0:00		HU	17.5	-107.1	120	945	Playa Perula		Mexico	192	309	SW
+WILLA	10/22/18 6:00		HU	17.9	-107.1	140	925	Playa Perula		Mexico	172	277	SW
+WILLA	10/22/18 12:00		HU	18.7	-107.2	135	928	Playa Perula		Mexico	147	237	WSW
+WILLA	10/22/18 18:00		HU	19.4	-107.2	130	934	Cabo Corrientes		Mexico	121	195	SW
+WILLA	10/23/18 0:00		HU	20.2	-107.2	120	943	Cabo Corrientes		Mexico	100	161	W
+WILLA	10/23/18 6:00		HU	20.6	-107.2	110	952	Cabo Corrientes		Mexico	99	160	W
+WILLA	10/23/18 12:00		HU	21.1	-107.1	105	960	Cabo Corrientes		Mexico	103	166	WNW
+WILLA	10/23/18 18:00		HU	21.7	-106.7	100	965	El Roblito		Mexico	80	129	SW
+WILLA	10/24/18 0:00		HU	22.5	-106	100	968	El Roblito		Mexico	21	34	WNW
+WILLA	10/24/18 1:30	L	HU	22.7	-105.8	100	968	Escuinapa		Mexico	15	24	ESE
+WILLA	10/24/18 6:00		TS	23.8	-104.6	45	990	Escuinapa		Mexico	112	180	NE
+XAVIER	11/2/18 0:00		LO	13.7	-111	25	1008	Playa Perula		Mexico	560	901	SW
+XAVIER	11/2/18 6:00		LO	14	-110.6	25	1008	Playa Perula		Mexico	527	848	SW
+XAVIER	11/2/18 12:00		TD	14.2	-109.9	30	1007	Playa Perula		Mexico	485	781	SW
+XAVIER	11/2/18 18:00		TD	14.3	-109.2	30	1007	Playa Perula		Mexico	451	726	SW
+XAVIER	11/3/18 0:00		TS	14.4	-108.5	35	1006	Playa Perula		Mexico	419	675	SSW
+XAVIER	11/3/18 6:00		TS	14.5	-107.8	40	1004	Manzanillo		Mexico	388	625	SW
+XAVIER	11/3/18 12:00		TS	14.8	-107.1	45	1002	Punta San Telmo		Mexico	342	550	SW
+XAVIER	11/3/18 18:00		TS	15.2	-106.4	45	1000	Punta San Telmo		Mexico	290	466	SW
+XAVIER	11/4/18 0:00		TS	15.8	-105.9	50	999	Punta San Telmo		Mexico	237	381	SW
+XAVIER	11/4/18 6:00		TS	16.6	-105.5	50	998	Punta San Telmo		Mexico	179	288	SW
+XAVIER	11/4/18 12:00		TS	17.4	-105.3	55	996	Manzanillo		Mexico	130	209	SSW
+XAVIER	11/4/18 18:00		TS	17.9	-105.4	55	995	Manzanillo		Mexico	106	170	SW
+XAVIER	11/5/18 0:00		TS	18.2	-105.5	55	995	Manzanillo		Mexico	96	155	SW
+XAVIER	11/5/18 6:00		TS	18.4	-105.8	50	999	Playa Perula		Mexico	91	147	SSW
+XAVIER	11/5/18 12:00		TS	18.5	-106	50	999	Playa Perula		Mexico	93	149	SW
+XAVIER	11/5/18 18:00		TS	18.8	-106.5	45	1001	Playa Perula		Mexico	103	167	WSW
+XAVIER	11/6/18 0:00		LO	18.9	-107.2	40	1004	Playa Perula		Mexico	142	229	WSW
+XAVIER	11/6/18 6:00		LO	18.9	-107.9	35	1005	Cabo Corrientes		Mexico	178	287	SW
+XAVIER	11/6/18 12:00		LO	18.9	-108.6	35	1006	Cabo Corrientes		Mexico	217	349	WSW
+XAVIER	11/6/18 18:00		LO	18.8	-109.4	30	1007	Cabo Corrientes		Mexico	267	429	WSW
+XAVIER	11/7/18 0:00		LO	18.7	-110.1	30	1007	Cabo San Lucas		Mexico	285	459	S
+XAVIER	11/7/18 6:00		LO	18.4	-110.7	25	1008	Cabo San Lucas		Mexico	310	498	S
+XAVIER	11/7/18 12:00		LO	18	-111.4	25	1008	Cabo San Lucas		Mexico	347	558	SSW
+XAVIER	11/7/18 18:00		LO	17.8	-112.2	25	1008	Cabo San Lucas		Mexico	377	607	SSW
+XAVIER	11/8/18 0:00		LO	17.7	-112.9	25	1008	Cabo San Lucas		Mexico	403	649	SSW
+XAVIER	11/8/18 6:00		LO	17.6	-113.6	20	1009	Cabo San Lucas		Mexico	433	696	SW
+XAVIER	11/8/18 12:00		LO	17.5	-114.4	20	1009	Cabo San Lucas		Mexico	469	755	SW
+XAVIER	11/8/18 18:00		LO	17.4	-115.1	20	1009	Cabo San Lucas		Mexico	504	810	SW
+XAVIER	11/9/18 0:00		LO	17.3	-115.7	20	1009	Cabo San Lucas		Mexico	535	862	SW

@@ -1,6 +1,10 @@
 from dataclasses import dataclass
 from typing import List, Type
 from datetime import datetime
+from geopy.distance import distance
+
+from bearing import calculate_initial_compass_bearing as get_bearing
+
 import csv
 import shapefile
 
@@ -35,6 +39,26 @@ class Record:
     winds: int
     pressure: int
 
+    def get_nearest_breakpoint(self, breakpoints):
+        def bearing_to_direction(bearing):
+            # From: https://gist.github.com/RobertSudwarts/acf8df23a16afdb5837f, by @Lauszus
+            dirs = ['N', 'NNE', 'NE', 'ENE', 'E', 'ESE', 'SE', 'SSE', 'S', 'SSW', 'SW', 'WSW', 'W', 'WNW', 'NW', 'NNW']
+            ix = round(bearing / (360. / len(dirs)))
+            return dirs[ix % len(dirs)]
+
+        distances = []
+        for bp in breakpoints:
+            bp_distance = distance((bp.latitude, bp.longitude), (self.latitude, self.longitude))
+            bp_bearing = round(get_bearing((bp.latitude, bp.longitude), (self.latitude, self.longitude)), 3)
+            bp_direction = bearing_to_direction(bp_bearing)
+            distances.append((bp, bp_distance, bp_bearing, bp_direction))
+
+        nearest_bp = sorted(distances, key = lambda x: x[1])[0]
+        return {
+            "breakpoint": nearest_bp[0],
+            "distance": nearest_bp[1],
+            "direction": nearest_bp[3]
+        }
 
 @dataclass
 class Storm:
@@ -91,7 +115,6 @@ def load_hurdat(hurdat_file_path):
                 ))
         return storms
 
-
 def main():
     breakpoints_file_path = "resources/breakpoints/breakpoints.shp"
     breakpoints = load_breakpoints(breakpoints_file_path)
@@ -99,7 +122,29 @@ def main():
         "resources/hurdat2/hurdat2-nepac-1949-2018-122019.txt")
 
     current_year = list(filter(lambda storm: storm.year == 2018, storms))
-    print(len(current_year))
+    
+    with open("output.tsv", "a") as f:
+        for storm in current_year:
+            print(storm.name)
+            for record in storm.records:
+                nearest_bp = record.get_nearest_breakpoint(breakpoints)
+                line = [
+                    storm.name,
+                    record.date.strftime("%Y-%m-%d %H:%M"),
+                    record.record_identifier,
+                    record.phase,
+                    str(record.latitude),
+                    str(record.longitude),
+                    str(record.winds),
+                    str(record.pressure),
+                    nearest_bp["breakpoint"].name,
+                    nearest_bp["breakpoint"].state,
+                    nearest_bp["breakpoint"].country,
+                    str(round(nearest_bp["distance"].mi, 0)),
+                    str(round(nearest_bp["distance"].km, 0)),
+                    nearest_bp["direction"],
+                ]
+                f.write("{}\n".format("\t".join(line)))
 
 
 if __name__ == "__main__":
