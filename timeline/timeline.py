@@ -34,7 +34,7 @@ def write_output(output_file_path, storms, breakpoints):
         
     with open(output_file_path, "w") as f:
         header = [
-            "Storm"
+            "Storm",
             "Name",
             "Date",
             "Record Identifier",
