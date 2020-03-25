@@ -40,7 +40,7 @@ def write_output(output_file_path, storms, breakpoints):
             "Record Identifier",
             "Type",
             "Latitude",
-            "Longitude"
+            "Longitude",
             "Winds",
             "Pressure",
             "Breakpoint",
