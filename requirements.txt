@@ -3,7 +3,7 @@ autopep8==1.5
 geographiclib==1.50
 geopy==1.21.0
 isort==4.3.21
-joblib==0.14.1
+joblib==1.2.0
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 pycodestyle==2.5.0
